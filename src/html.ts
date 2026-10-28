@@ -19,6 +19,7 @@ export interface GalleryView {
 
 export function renderGalleryPage(g: GalleryView): string {
   const title = escapeHtml(g.title);
+  const headingTitle = g.title;
   const tiles = Array.from({ length: g.imageCount }, (_, i) => {
     const src = `/i/${g.id}/${i}`;
     return `<li><button class="tile" type="button" data-index="${i}" aria-label="Open photo ${i + 1} of ${g.imageCount}"><img src="${src}" alt="Photo ${i + 1}" loading="lazy" decoding="async"></button></li>`;
@@ -38,7 +39,7 @@ export function renderGalleryPage(g: GalleryView): string {
 <body class="gallery-page">
 <header class="bar"><a class="brand" href="/">PicWrap</a><button class="btn ghost" id="copy" type="button">Copy link</button></header>
 <main class="wrap">
-<h1 class="g-title">${title}</h1>
+<h1 class="g-title">${headingTitle}</h1>
 <p class="muted">${count}</p>
 <ul class="grid" id="grid">
 ${tiles}
