@@ -31,7 +31,7 @@ function close(): void {
 }
 
 tiles.forEach((tile) => {
-  tile.addEventListener("click", () => open(Number(tile.dataset.index)));
+  tile.addEventListener("click", () => open(Number(tile.dataset.index) + 1));
 });
 document.querySelector("#lb-close")!.addEventListener("click", close);
 document.querySelector("#lb-prev")!.addEventListener("click", () => show(current - 1));
