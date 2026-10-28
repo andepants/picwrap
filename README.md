@@ -30,6 +30,15 @@ Server-side validation (`src/validate.ts`):
   `X-Content-Type-Options: nosniff`.
 - Every KV entry has a **30-day TTL**, so storage stays inside free-tier limits.
 
+## Sharing a gallery
+
+When an upload finishes you land on the gallery page. Anyone with its link can view the
+photos; there is no sign-in and no public index, so a gallery is only as private as its URL.
+
+- Use **Copy link** in the gallery header to copy the share URL to the clipboard.
+- Links stop working after **30 days**, when the gallery and its images expire from KV.
+- Opening an expired or mistyped link shows a "Gallery not found" page with a link to start over.
+
 ## Run locally
 
 Requires Node.js 20+. No secrets or Cloudflare login are needed. `wrangler dev` uses a local,
