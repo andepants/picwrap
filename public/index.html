@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PicWrap · wrap your photos in a shareable page</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="bar"><a class="brand" href="/">PicWrap</a></header>
+<main class="wrap narrow">
+  <h1>Wrap your photos in a page you can share.</h1>
+  <p class="muted">Upload up to 20 images (JPEG, PNG, GIF or WebP, 5 MB each), give it a title, get a link. Galleries expire after 30 days.</p>
+  <form id="upload" class="card" novalidate>
+    <label class="field">
+      <span>Title</span>
+      <input name="title" id="title" maxlength="120" required placeholder="Summer in the garden">
+    </label>
+    <label class="drop" id="drop">
+      <input type="file" id="files" accept="image/jpeg,image/png,image/gif,image/webp" multiple>
+      <strong>Drop images here</strong> or click to choose
+    </label>
+    <ul class="previews" id="previews"></ul>
+    <p class="status" id="status" role="status" aria-live="polite"></p>
+    <button class="btn" id="submit" type="submit" disabled>Create gallery</button>
+  </form>
+</main>
+<script type="module" src="/js/upload.js"></script>
+</body>
+</html>
