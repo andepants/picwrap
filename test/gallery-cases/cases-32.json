@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 32 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Backyard Birthday 東京 <夜>",
+      "imageCount": 4,
+      "locale": "da",
+      "expectedTitleHtml": "Backyard Birthday 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Trip emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Quiet Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Café & Crème Spring Ferry a < b > c",
+      "imageCount": 2,
+      "locale": "fi",
+      "expectedTitleHtml": "Café &amp; Crème Spring Ferry a &lt; b &gt; c"
+    },
+    {
+      "title": "Coastal Wedding Toast <b>bold</b>",
+      "imageCount": 3,
+      "locale": "pl",
+      "expectedTitleHtml": "Coastal Wedding Toast &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Backyard Trip Ünïcödé \"test\"",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "Backyard Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Golden Ferry",
+      "imageCount": 4,
+      "locale": "tr",
+      "expectedTitleHtml": "Golden Ferry"
+    },
+    {
+      "title": "Sunny Festival",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Sunny Festival"
+    },
+    {
+      "title": "Mountain Market",
+      "imageCount": 2,
+      "locale": "uk",
+      "expectedTitleHtml": "Mountain Market"
+    },
+    {
+      "title": "Summer Walk <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Walk &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Golden Sunset <b>bold</b>",
+      "imageCount": 10,
+      "locale": "ko",
+      "expectedTitleHtml": "Golden Sunset &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Late Market",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Late Market"
+    },
+    {
+      "title": "Family Bike Ride",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "Family Bike Ride"
+    },
+    {
+      "title": "<script>alert(1)</script> Late Wedding Toast \"quoted\"",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Late Wedding Toast &quot;quoted&quot;"
+    },
+    {
+      "title": "Winter Museum Visit <b>bold</b>",
+      "imageCount": 12,
+      "locale": "es",
+      "expectedTitleHtml": "Winter Museum Visit &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Sunny Beach Day",
+      "imageCount": 12,
+      "locale": "fr",
+      "expectedTitleHtml": "Sunny Beach Day"
+    },
+    {
+      "title": "Quiet Graduation \"><svg onload=alert(1)>",
+      "imageCount": 7,
+      "locale": "de",
+      "expectedTitleHtml": "Quiet Graduation &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Mountain Bike Ride Ünïcödé \"test\"",
+      "imageCount": 2,
+      "locale": "it",
+      "expectedTitleHtml": "Mountain Bike Ride Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Coastal Trip emoji 📷 & <3",
+      "imageCount": 20,
+      "locale": "pt",
+      "expectedTitleHtml": "Coastal Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Late Graduation <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Late Graduation &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Early Picnic",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Early Picnic"
+    },
+    {
+      "title": "Sunny Road Trip <b>bold</b>",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Sunny Road Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Quiet Festival",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "Quiet Festival"
+    },
+    {
+      "title": "Backyard Sunset &amp; already",
+      "imageCount": 4,
+      "locale": "fi",
+      "expectedTitleHtml": "Backyard Sunset &amp;amp; already"
+    },
+    {
+      "title": "Rainy Market",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Rainy Market"
+    }
+  ]
+}

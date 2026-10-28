@@ -1,0 +1,17 @@
+{
+  "name": "Français",
+  "photoCount": {
+    "one": "{count} photo",
+    "other": "{count} photos"
+  },
+  "copyLink": "Copier le lien",
+  "openPhoto": "Ouvrir la photo {n} sur {total}",
+  "photoAlt": "Photo {n}",
+  "viewer": "Visionneuse de photos",
+  "close": "Fermer",
+  "previous": "Photo précédente",
+  "next": "Photo suivante",
+  "notFoundTitle": "Galerie introuvable",
+  "notFoundBody": "Elle a peut-être expiré. Les galeries sont conservées 30 jours.",
+  "makeNew": "En créer une nouvelle"
+}

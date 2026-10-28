@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 26 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Late Bake Sale \"><svg onload=alert(1)>",
+      "imageCount": 5,
+      "locale": "it",
+      "expectedTitleHtml": "Late Bake Sale &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Golden Festival <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Golden Festival &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Rainy Reunion 東京 <夜>",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Sunny Birthday",
+      "imageCount": 3,
+      "locale": "sv",
+      "expectedTitleHtml": "Sunny Birthday"
+    },
+    {
+      "title": "Mountain Graduation",
+      "imageCount": 3,
+      "locale": "da",
+      "expectedTitleHtml": "Mountain Graduation"
+    },
+    {
+      "title": "it's Garden Festival Café & Crème",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "it&#39;s Garden Festival Café &amp; Crème"
+    },
+    {
+      "title": "Late Road Trip <img src=x onerror=alert(1)>",
+      "imageCount": 5,
+      "locale": "fi",
+      "expectedTitleHtml": "Late Road Trip &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Autumn Sunset",
+      "imageCount": 12,
+      "locale": "pl",
+      "expectedTitleHtml": "Autumn Sunset"
+    },
+    {
+      "title": "Winter Picnic Tom & Jerry",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Winter Picnic Tom &amp; Jerry"
+    },
+    {
+      "title": "Backyard Road Trip <b>bold</b>",
+      "imageCount": 7,
+      "locale": "tr",
+      "expectedTitleHtml": "Backyard Road Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Sunny Road Trip Café & Crème",
+      "imageCount": 19,
+      "locale": "ru",
+      "expectedTitleHtml": "Sunny Road Trip Café &amp; Crème"
+    },
+    {
+      "title": "Garden Campfire",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Garden Campfire"
+    },
+    {
+      "title": "Golden Market <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Golden Market &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "City Campfire a < b > c",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "City Campfire a &lt; b &gt; c"
+    },
+    {
+      "title": "Weekend Birthday a < b > c",
+      "imageCount": 10,
+      "locale": "zh",
+      "expectedTitleHtml": "Weekend Birthday a &lt; b &gt; c"
+    },
+    {
+      "title": "City Reunion",
+      "imageCount": 4,
+      "locale": "id",
+      "expectedTitleHtml": "City Reunion"
+    },
+    {
+      "title": "Mountain Campfire",
+      "imageCount": 20,
+      "locale": "en",
+      "expectedTitleHtml": "Mountain Campfire"
+    },
+    {
+      "title": "a < b > c Backyard Museum Visit it's",
+      "imageCount": 19,
+      "locale": "es",
+      "expectedTitleHtml": "a &lt; b &gt; c Backyard Museum Visit it&#39;s"
+    },
+    {
+      "title": "Garden Walk <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Garden Walk &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Spring Graduation",
+      "imageCount": 19,
+      "locale": "de",
+      "expectedTitleHtml": "Spring Graduation"
+    },
+    {
+      "title": "City Picnic 東京 <夜>",
+      "imageCount": 2,
+      "locale": "it",
+      "expectedTitleHtml": "City Picnic 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "<b>bold</b> Quiet Bake Sale \"><svg onload=alert(1)>",
+      "imageCount": 3,
+      "locale": "pt",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Quiet Bake Sale &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Sunny Ferry 5 > 3 & 2 < 4",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Sunny Ferry 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Sunny Ferry Café & Crème",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "Sunny Ferry Café &amp; Crème"
+    }
+  ]
+}

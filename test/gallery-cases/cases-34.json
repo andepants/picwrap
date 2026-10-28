@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 34 (mixed scripts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Rainy Campfire",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Rainy Campfire"
+    },
+    {
+      "title": "City Bike Ride",
+      "imageCount": 2,
+      "locale": "ko",
+      "expectedTitleHtml": "City Bike Ride"
+    },
+    {
+      "title": "Summer Campfire Ünïcödé \"test\"",
+      "imageCount": 7,
+      "locale": "zh",
+      "expectedTitleHtml": "Summer Campfire Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Summer Birthday Café & Crème",
+      "imageCount": 7,
+      "locale": "id",
+      "expectedTitleHtml": "Summer Birthday Café &amp; Crème"
+    },
+    {
+      "title": "Misty Concert",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "Misty Concert"
+    },
+    {
+      "title": "Weekend Hike Tom & Jerry",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Weekend Hike Tom &amp; Jerry"
+    },
+    {
+      "title": "Weekend Concert",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Weekend Concert"
+    },
+    {
+      "title": "Coastal Ferry",
+      "imageCount": 12,
+      "locale": "de",
+      "expectedTitleHtml": "Coastal Ferry"
+    },
+    {
+      "title": "Winter Campfire",
+      "imageCount": 7,
+      "locale": "it",
+      "expectedTitleHtml": "Winter Campfire"
+    },
+    {
+      "title": "Harbor Campfire it's",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "Harbor Campfire it&#39;s"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Coastal Bake Sale &amp; already",
+      "imageCount": 4,
+      "locale": "nl",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Coastal Bake Sale &amp;amp; already"
+    },
+    {
+      "title": "Quiet Picnic",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Quiet Picnic"
+    },
+    {
+      "title": "'single' Autumn Road Trip Tom & Jerry",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "&#39;single&#39; Autumn Road Trip Tom &amp; Jerry"
+    },
+    {
+      "title": "Summer Festival 'single'",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Summer Festival &#39;single&#39;"
+    },
+    {
+      "title": "Coastal Game Night Café & Crème",
+      "imageCount": 5,
+      "locale": "fi",
+      "expectedTitleHtml": "Coastal Game Night Café &amp; Crème"
+    },
+    {
+      "title": "Early Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 5,
+      "locale": "pl",
+      "expectedTitleHtml": "Early Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Weekend Museum Visit Ünïcödé \"test\"",
+      "imageCount": 10,
+      "locale": "cs",
+      "expectedTitleHtml": "Weekend Museum Visit Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Quiet Bike Ride emoji 📷 & <3",
+      "imageCount": 10,
+      "locale": "tr",
+      "expectedTitleHtml": "Quiet Bike Ride emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "City Game Night",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "City Game Night"
+    },
+    {
+      "title": "Autumn Game Night",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Autumn Game Night"
+    },
+    {
+      "title": "Winter Beach Day Ünïcödé \"test\"",
+      "imageCount": 4,
+      "locale": "ja",
+      "expectedTitleHtml": "Winter Beach Day Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> Sunny Ferry <b>bold</b>",
+      "imageCount": 4,
+      "locale": "ko",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; Sunny Ferry &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Late Ferry",
+      "imageCount": 2,
+      "locale": "zh",
+      "expectedTitleHtml": "Late Ferry"
+    },
+    {
+      "title": "Summer Festival 5 > 3 & 2 < 4",
+      "imageCount": 20,
+      "locale": "id",
+      "expectedTitleHtml": "Summer Festival 5 &gt; 3 &amp; 2 &lt; 4"
+    }
+  ]
+}

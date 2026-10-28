@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 13 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Spring Wedding Toast",
+      "imageCount": 2,
+      "locale": "cs",
+      "expectedTitleHtml": "Spring Wedding Toast"
+    },
+    {
+      "title": "Winter Beach Day <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "tr",
+      "expectedTitleHtml": "Winter Beach Day &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "\"quoted\" Family Birthday &amp; already",
+      "imageCount": 4,
+      "locale": "ru",
+      "expectedTitleHtml": "&quot;quoted&quot; Family Birthday &amp;amp; already"
+    },
+    {
+      "title": "Mountain Campfire",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "Mountain Campfire"
+    },
+    {
+      "title": "Family Birthday",
+      "imageCount": 2,
+      "locale": "ja",
+      "expectedTitleHtml": "Family Birthday"
+    },
+    {
+      "title": "emoji 📷 & <3 Summer Road Trip 'single'",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Summer Road Trip &#39;single&#39;"
+    },
+    {
+      "title": "\"quoted\" Weekend Festival 'single'",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "&quot;quoted&quot; Weekend Festival &#39;single&#39;"
+    },
+    {
+      "title": "Rainy Museum Visit 東京 <夜>",
+      "imageCount": 2,
+      "locale": "id",
+      "expectedTitleHtml": "Rainy Museum Visit 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Early Festival \"quoted\"",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Early Festival &quot;quoted&quot;"
+    },
+    {
+      "title": "Mountain Bike Ride",
+      "imageCount": 2,
+      "locale": "es",
+      "expectedTitleHtml": "Mountain Bike Ride"
+    },
+    {
+      "title": "Harbor Concert",
+      "imageCount": 5,
+      "locale": "fr",
+      "expectedTitleHtml": "Harbor Concert"
+    },
+    {
+      "title": "Backyard Sunset it's",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "Backyard Sunset it&#39;s"
+    },
+    {
+      "title": "Misty Graduation Ünïcödé \"test\"",
+      "imageCount": 2,
+      "locale": "it",
+      "expectedTitleHtml": "Misty Graduation Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> Backyard Ferry \"quoted\"",
+      "imageCount": 4,
+      "locale": "pt",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; Backyard Ferry &quot;quoted&quot;"
+    },
+    {
+      "title": "Winter Ferry",
+      "imageCount": 12,
+      "locale": "nl",
+      "expectedTitleHtml": "Winter Ferry"
+    },
+    {
+      "title": "Weekend Sunset emoji 📷 & <3",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "Weekend Sunset emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Weekend Beach Day <b>bold</b>",
+      "imageCount": 19,
+      "locale": "da",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Weekend Beach Day &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Snowy Bike Ride Ünïcödé \"test\"",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Snowy Bike Ride Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "emoji 📷 & <3 Misty Beach Day <img src=x onerror=alert(1)>",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Misty Beach Day &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Weekend Museum Visit",
+      "imageCount": 7,
+      "locale": "pl",
+      "expectedTitleHtml": "Weekend Museum Visit"
+    },
+    {
+      "title": "Misty Sunset Café & Crème",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Misty Sunset Café &amp; Crème"
+    },
+    {
+      "title": "Backyard Concert",
+      "imageCount": 7,
+      "locale": "tr",
+      "expectedTitleHtml": "Backyard Concert"
+    },
+    {
+      "title": "Snowy Walk a < b > c",
+      "imageCount": 5,
+      "locale": "ru",
+      "expectedTitleHtml": "Snowy Walk a &lt; b &gt; c"
+    },
+    {
+      "title": "'single' Rainy Reunion 'single'",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "&#39;single&#39; Rainy Reunion &#39;single&#39;"
+    }
+  ]
+}

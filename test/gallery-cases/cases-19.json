@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 19 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Winter Game Night",
+      "imageCount": 2,
+      "locale": "ja",
+      "expectedTitleHtml": "Winter Game Night"
+    },
+    {
+      "title": "Spring Game Night",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Spring Game Night"
+    },
+    {
+      "title": "Winter Museum Visit Ünïcödé \"test\"",
+      "imageCount": 10,
+      "locale": "zh",
+      "expectedTitleHtml": "Winter Museum Visit Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "<script>alert(1)</script> City Graduation &amp; already",
+      "imageCount": 2,
+      "locale": "id",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; City Graduation &amp;amp; already"
+    },
+    {
+      "title": "Sunny Market <img src=x onerror=alert(1)>",
+      "imageCount": 7,
+      "locale": "en",
+      "expectedTitleHtml": "Sunny Market &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Snowy Birthday <b>bold</b>",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Birthday &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Backyard Sunset",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Backyard Sunset"
+    },
+    {
+      "title": "Misty Trip Ünïcödé \"test\"",
+      "imageCount": 20,
+      "locale": "de",
+      "expectedTitleHtml": "Misty Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Mountain Trip Café & Crème",
+      "imageCount": 20,
+      "locale": "it",
+      "expectedTitleHtml": "Mountain Trip Café &amp; Crème"
+    },
+    {
+      "title": "Autumn Sunset Tom & Jerry",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Autumn Sunset Tom &amp; Jerry"
+    },
+    {
+      "title": "'single' Summer Market it's",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "&#39;single&#39; Summer Market it&#39;s"
+    },
+    {
+      "title": "Weekend Ferry",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Weekend Ferry"
+    },
+    {
+      "title": "Coastal Birthday",
+      "imageCount": 10,
+      "locale": "da",
+      "expectedTitleHtml": "Coastal Birthday"
+    },
+    {
+      "title": "City Graduation",
+      "imageCount": 12,
+      "locale": "nb",
+      "expectedTitleHtml": "City Graduation"
+    },
+    {
+      "title": "Early Ferry",
+      "imageCount": 20,
+      "locale": "fi",
+      "expectedTitleHtml": "Early Ferry"
+    },
+    {
+      "title": "Harbor Reunion",
+      "imageCount": 20,
+      "locale": "pl",
+      "expectedTitleHtml": "Harbor Reunion"
+    },
+    {
+      "title": "Late Picnic",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Late Picnic"
+    },
+    {
+      "title": "Autumn Birthday",
+      "imageCount": 3,
+      "locale": "tr",
+      "expectedTitleHtml": "Autumn Birthday"
+    },
+    {
+      "title": "Coastal Graduation",
+      "imageCount": 2,
+      "locale": "ru",
+      "expectedTitleHtml": "Coastal Graduation"
+    },
+    {
+      "title": "emoji 📷 & <3 Early Graduation <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Early Graduation &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Weekend Birthday <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 7,
+      "locale": "ja",
+      "expectedTitleHtml": "Weekend Birthday &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "\"quoted\" Autumn Wedding Toast emoji 📷 & <3",
+      "imageCount": 7,
+      "locale": "ko",
+      "expectedTitleHtml": "&quot;quoted&quot; Autumn Wedding Toast emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Late Museum Visit 'single'",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "Late Museum Visit &#39;single&#39;"
+    },
+    {
+      "title": "Golden Walk Ünïcödé \"test\"",
+      "imageCount": 20,
+      "locale": "id",
+      "expectedTitleHtml": "Golden Walk Ünïcödé &quot;test&quot;"
+    }
+  ]
+}

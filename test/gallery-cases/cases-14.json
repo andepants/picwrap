@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 14 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Winter Ferry",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Winter Ferry"
+    },
+    {
+      "title": "Ünïcödé \"test\" Spring Sunset Tom & Jerry",
+      "imageCount": 12,
+      "locale": "ko",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Spring Sunset Tom &amp; Jerry"
+    },
+    {
+      "title": "Garden Walk <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "Garden Walk &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Snowy Graduation Café & Crème",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "Snowy Graduation Café &amp; Crème"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Spring Festival <b>bold</b>",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Spring Festival &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Snowy Road Trip",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Road Trip"
+    },
+    {
+      "title": "Garden Sunset",
+      "imageCount": 19,
+      "locale": "fr",
+      "expectedTitleHtml": "Garden Sunset"
+    },
+    {
+      "title": "Coastal Museum Visit <img src=x onerror=alert(1)>",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "Coastal Museum Visit &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Early Beach Day it's",
+      "imageCount": 5,
+      "locale": "it",
+      "expectedTitleHtml": "Early Beach Day it&#39;s"
+    },
+    {
+      "title": "Autumn Festival 'single'",
+      "imageCount": 10,
+      "locale": "pt",
+      "expectedTitleHtml": "Autumn Festival &#39;single&#39;"
+    },
+    {
+      "title": "City Road Trip \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "nl",
+      "expectedTitleHtml": "City Road Trip &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Late Reunion",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "Late Reunion"
+    },
+    {
+      "title": "Garden Festival <img src=x onerror=alert(1)>",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Garden Festival &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Misty Campfire",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "Misty Campfire"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 City Walk <script>alert(1)</script>",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 City Walk &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Coastal Graduation Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Coastal Graduation Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Coastal Bike Ride",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "Coastal Bike Ride"
+    },
+    {
+      "title": "Rainy Bake Sale <b>bold</b>",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "Rainy Bake Sale &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Backyard Campfire",
+      "imageCount": 10,
+      "locale": "ru",
+      "expectedTitleHtml": "Backyard Campfire"
+    },
+    {
+      "title": "emoji 📷 & <3 Harbor Birthday Ünïcödé \"test\"",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Harbor Birthday Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "a < b > c Mountain Trip \"><svg onload=alert(1)>",
+      "imageCount": 3,
+      "locale": "ja",
+      "expectedTitleHtml": "a &lt; b &gt; c Mountain Trip &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Weekend Beach Day",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "Weekend Beach Day"
+    },
+    {
+      "title": "Harbor Concert <b>bold</b>",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Harbor Concert &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Harbor Trip",
+      "imageCount": 2,
+      "locale": "id",
+      "expectedTitleHtml": "Harbor Trip"
+    }
+  ]
+}

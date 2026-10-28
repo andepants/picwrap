@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 41 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "5 > 3 & 2 < 4 Harbor Trip <img src=x onerror=alert(1)>",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Harbor Trip &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "City Sunset \"quoted\"",
+      "imageCount": 4,
+      "locale": "pt",
+      "expectedTitleHtml": "City Sunset &quot;quoted&quot;"
+    },
+    {
+      "title": "Late Hike",
+      "imageCount": 12,
+      "locale": "nl",
+      "expectedTitleHtml": "Late Hike"
+    },
+    {
+      "title": "Weekend Trip emoji 📷 & <3",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Weekend Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Golden Hike",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Golden Hike"
+    },
+    {
+      "title": "Snowy Picnic 'single'",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "Snowy Picnic &#39;single&#39;"
+    },
+    {
+      "title": "Autumn Road Trip emoji 📷 & <3",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "Autumn Road Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Backyard Road Trip",
+      "imageCount": 10,
+      "locale": "pl",
+      "expectedTitleHtml": "Backyard Road Trip"
+    },
+    {
+      "title": "Golden Picnic 東京 <夜>",
+      "imageCount": 7,
+      "locale": "cs",
+      "expectedTitleHtml": "Golden Picnic 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Family Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 12,
+      "locale": "tr",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Family Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Spring Hike it's",
+      "imageCount": 7,
+      "locale": "ru",
+      "expectedTitleHtml": "Spring Hike it&#39;s"
+    },
+    {
+      "title": "<script>alert(1)</script> Summer Game Night \"quoted\"",
+      "imageCount": 12,
+      "locale": "uk",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Summer Game Night &quot;quoted&quot;"
+    },
+    {
+      "title": "Café & Crème Harbor Bake Sale &amp; already",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "Café &amp; Crème Harbor Bake Sale &amp;amp; already"
+    },
+    {
+      "title": "Garden Concert",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Garden Concert"
+    },
+    {
+      "title": "Misty Festival Café & Crème",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Misty Festival Café &amp; Crème"
+    },
+    {
+      "title": "Spring Birthday",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "Spring Birthday"
+    },
+    {
+      "title": "Early Festival <b>bold</b>",
+      "imageCount": 7,
+      "locale": "en",
+      "expectedTitleHtml": "Early Festival &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Late Picnic 'single'",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "Late Picnic &#39;single&#39;"
+    },
+    {
+      "title": "Autumn Campfire 'single'",
+      "imageCount": 3,
+      "locale": "fr",
+      "expectedTitleHtml": "Autumn Campfire &#39;single&#39;"
+    },
+    {
+      "title": "Autumn Reunion &amp; already",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Autumn Reunion &amp;amp; already"
+    },
+    {
+      "title": "Harbor Campfire",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Harbor Campfire"
+    },
+    {
+      "title": "&amp; already Golden Reunion \"><svg onload=alert(1)>",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "&amp;amp; already Golden Reunion &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "\"quoted\" Autumn Beach Day emoji 📷 & <3",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "&quot;quoted&quot; Autumn Beach Day emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Backyard Ferry",
+      "imageCount": 7,
+      "locale": "sv",
+      "expectedTitleHtml": "Backyard Ferry"
+    }
+  ]
+}

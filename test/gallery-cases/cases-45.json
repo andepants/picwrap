@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 45 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Coastal Beach Day",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Coastal Beach Day"
+    },
+    {
+      "title": "Autumn Picnic <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "es",
+      "expectedTitleHtml": "Autumn Picnic &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Snowy Bike Ride",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Snowy Bike Ride"
+    },
+    {
+      "title": "Harbor Graduation",
+      "imageCount": 12,
+      "locale": "de",
+      "expectedTitleHtml": "Harbor Graduation"
+    },
+    {
+      "title": "Mountain Campfire",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "Mountain Campfire"
+    },
+    {
+      "title": "City Beach Day \"quoted\"",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "City Beach Day &quot;quoted&quot;"
+    },
+    {
+      "title": "Snowy Bike Ride",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Snowy Bike Ride"
+    },
+    {
+      "title": "Quiet Bake Sale",
+      "imageCount": 4,
+      "locale": "sv",
+      "expectedTitleHtml": "Quiet Bake Sale"
+    },
+    {
+      "title": "Weekend Road Trip",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Weekend Road Trip"
+    },
+    {
+      "title": "Winter Graduation <script>alert(1)</script>",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "Winter Graduation &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Family Walk \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "fi",
+      "expectedTitleHtml": "Family Walk &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Autumn Campfire",
+      "imageCount": 7,
+      "locale": "pl",
+      "expectedTitleHtml": "Autumn Campfire"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Snowy Trip &amp; already",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Snowy Trip &amp;amp; already"
+    },
+    {
+      "title": "a < b > c Mountain Graduation <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "a &lt; b &gt; c Mountain Graduation &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Weekend Festival",
+      "imageCount": 20,
+      "locale": "ru",
+      "expectedTitleHtml": "Weekend Festival"
+    },
+    {
+      "title": "Autumn Beach Day <script>alert(1)</script>",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Autumn Beach Day &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Spring Trip",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Spring Trip"
+    },
+    {
+      "title": "Harbor Wedding Toast",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "Harbor Wedding Toast"
+    },
+    {
+      "title": "&amp; already Harbor Reunion a < b > c",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "&amp;amp; already Harbor Reunion a &lt; b &gt; c"
+    },
+    {
+      "title": "City Market 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "City Market 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Quiet Festival it's",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Quiet Festival it&#39;s"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Misty Picnic <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 4,
+      "locale": "es",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Misty Picnic &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Rainy Festival &amp; already",
+      "imageCount": 5,
+      "locale": "fr",
+      "expectedTitleHtml": "Rainy Festival &amp;amp; already"
+    },
+    {
+      "title": "\"quoted\" Family Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 5,
+      "locale": "de",
+      "expectedTitleHtml": "&quot;quoted&quot; Family Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    }
+  ]
+}

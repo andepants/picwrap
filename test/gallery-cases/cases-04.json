@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 4 (mixed scripts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Summer Museum Visit",
+      "imageCount": 12,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Museum Visit"
+    },
+    {
+      "title": "Café & Crème Mountain Festival &amp; already",
+      "imageCount": 7,
+      "locale": "ko",
+      "expectedTitleHtml": "Café &amp; Crème Mountain Festival &amp;amp; already"
+    },
+    {
+      "title": "City Reunion",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "City Reunion"
+    },
+    {
+      "title": "Sunny Trip Café & Crème",
+      "imageCount": 3,
+      "locale": "id",
+      "expectedTitleHtml": "Sunny Trip Café &amp; Crème"
+    },
+    {
+      "title": "Spring Campfire 東京 <夜>",
+      "imageCount": 12,
+      "locale": "en",
+      "expectedTitleHtml": "Spring Campfire 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Snowy Ferry \"><svg onload=alert(1)>",
+      "imageCount": 5,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Ferry &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Snowy Wedding Toast 東京 <夜>",
+      "imageCount": 5,
+      "locale": "fr",
+      "expectedTitleHtml": "Snowy Wedding Toast 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Sunny Ferry 5 > 3 & 2 < 4",
+      "imageCount": 7,
+      "locale": "de",
+      "expectedTitleHtml": "Sunny Ferry 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "<script>alert(1)</script> Backyard Museum Visit \"><svg onload=alert(1)>",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Backyard Museum Visit &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Golden Hike emoji 📷 & <3",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Golden Hike emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "emoji 📷 & <3 Mountain Reunion 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Mountain Reunion 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Harbor Wedding Toast",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Harbor Wedding Toast"
+    },
+    {
+      "title": "Summer Graduation",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Summer Graduation"
+    },
+    {
+      "title": "City Sunset",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "City Sunset"
+    },
+    {
+      "title": "Harbor Concert \"quoted\"",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "Harbor Concert &quot;quoted&quot;"
+    },
+    {
+      "title": "Early Game Night",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Early Game Night"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Rainy Sunset 東京 <夜>",
+      "imageCount": 12,
+      "locale": "cs",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Rainy Sunset 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Late Campfire",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Late Campfire"
+    },
+    {
+      "title": "Backyard Sunset",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Backyard Sunset"
+    },
+    {
+      "title": "Quiet Bake Sale",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "Quiet Bake Sale"
+    },
+    {
+      "title": "Summer Wedding Toast <script>alert(1)</script>",
+      "imageCount": 3,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Wedding Toast &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Harbor Campfire <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Harbor Campfire &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Autumn Festival",
+      "imageCount": 10,
+      "locale": "zh",
+      "expectedTitleHtml": "Autumn Festival"
+    },
+    {
+      "title": "<script>alert(1)</script> Spring Trip 'single'",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Spring Trip &#39;single&#39;"
+    }
+  ]
+}

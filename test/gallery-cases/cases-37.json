@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 37 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Snowy Campfire Tom & Jerry",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Snowy Campfire Tom &amp; Jerry"
+    },
+    {
+      "title": "Snowy Concert",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Snowy Concert"
+    },
+    {
+      "title": "Weekend Market 5 > 3 & 2 < 4",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "Weekend Market 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Misty Ferry 'single'",
+      "imageCount": 2,
+      "locale": "pl",
+      "expectedTitleHtml": "Misty Ferry &#39;single&#39;"
+    },
+    {
+      "title": "Golden Campfire",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Golden Campfire"
+    },
+    {
+      "title": "Harbor Reunion",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Harbor Reunion"
+    },
+    {
+      "title": "Backyard Market a < b > c",
+      "imageCount": 20,
+      "locale": "ru",
+      "expectedTitleHtml": "Backyard Market a &lt; b &gt; c"
+    },
+    {
+      "title": "Early Trip",
+      "imageCount": 4,
+      "locale": "uk",
+      "expectedTitleHtml": "Early Trip"
+    },
+    {
+      "title": "Quiet Museum Visit",
+      "imageCount": 12,
+      "locale": "ja",
+      "expectedTitleHtml": "Quiet Museum Visit"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Coastal Sunset &amp; already",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Coastal Sunset &amp;amp; already"
+    },
+    {
+      "title": "Quiet Graduation 5 > 3 & 2 < 4",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Quiet Graduation 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Spring Birthday",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "Spring Birthday"
+    },
+    {
+      "title": "Mountain Reunion",
+      "imageCount": 3,
+      "locale": "en",
+      "expectedTitleHtml": "Mountain Reunion"
+    },
+    {
+      "title": "Early Bike Ride",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Early Bike Ride"
+    },
+    {
+      "title": "Sunny Beach Day Tom & Jerry",
+      "imageCount": 2,
+      "locale": "fr",
+      "expectedTitleHtml": "Sunny Beach Day Tom &amp; Jerry"
+    },
+    {
+      "title": "Autumn Game Night",
+      "imageCount": 12,
+      "locale": "de",
+      "expectedTitleHtml": "Autumn Game Night"
+    },
+    {
+      "title": "Misty Wedding Toast it's",
+      "imageCount": 20,
+      "locale": "it",
+      "expectedTitleHtml": "Misty Wedding Toast it&#39;s"
+    },
+    {
+      "title": "Summer Concert 5 > 3 & 2 < 4",
+      "imageCount": 19,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Concert 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Rainy Bike Ride",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Bike Ride"
+    },
+    {
+      "title": "\"quoted\" Family Campfire \"><svg onload=alert(1)>",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "&quot;quoted&quot; Family Campfire &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "\"quoted\" Winter Concert it's",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "&quot;quoted&quot; Winter Concert it&#39;s"
+    },
+    {
+      "title": "Snowy Road Trip",
+      "imageCount": 4,
+      "locale": "nb",
+      "expectedTitleHtml": "Snowy Road Trip"
+    },
+    {
+      "title": "it's Autumn Concert a < b > c",
+      "imageCount": 3,
+      "locale": "fi",
+      "expectedTitleHtml": "it&#39;s Autumn Concert a &lt; b &gt; c"
+    },
+    {
+      "title": "Late Trip",
+      "imageCount": 5,
+      "locale": "pl",
+      "expectedTitleHtml": "Late Trip"
+    }
+  ]
+}

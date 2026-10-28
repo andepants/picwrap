@@ -1,0 +1,16 @@
+{
+  "name": "日本語",
+  "photoCount": {
+    "other": "写真 {count} 枚"
+  },
+  "copyLink": "リンクをコピー",
+  "openPhoto": "写真 {n} / {total} を開く",
+  "photoAlt": "写真 {n}",
+  "viewer": "写真ビューアー",
+  "close": "閉じる",
+  "previous": "前の写真",
+  "next": "次の写真",
+  "notFoundTitle": "ギャラリーが見つかりません",
+  "notFoundBody": "有効期限が切れた可能性があります。ギャラリーは 30 日間保存されます。",
+  "makeNew": "新しく作成する"
+}

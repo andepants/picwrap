@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 29 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Sunny Wedding Toast &amp; already",
+      "imageCount": 20,
+      "locale": "ja",
+      "expectedTitleHtml": "Sunny Wedding Toast &amp;amp; already"
+    },
+    {
+      "title": "Summer Hike",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Summer Hike"
+    },
+    {
+      "title": "Snowy Campfire",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "Snowy Campfire"
+    },
+    {
+      "title": "Snowy Picnic",
+      "imageCount": 19,
+      "locale": "id",
+      "expectedTitleHtml": "Snowy Picnic"
+    },
+    {
+      "title": "Garden Graduation a < b > c",
+      "imageCount": 20,
+      "locale": "en",
+      "expectedTitleHtml": "Garden Graduation a &lt; b &gt; c"
+    },
+    {
+      "title": "Early Hike <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 12,
+      "locale": "es",
+      "expectedTitleHtml": "Early Hike &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Summer Beach Day",
+      "imageCount": 3,
+      "locale": "fr",
+      "expectedTitleHtml": "Summer Beach Day"
+    },
+    {
+      "title": "Snowy Reunion",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "Snowy Reunion"
+    },
+    {
+      "title": "Winter Trip",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "Winter Trip"
+    },
+    {
+      "title": "Garden Museum Visit",
+      "imageCount": 20,
+      "locale": "pt",
+      "expectedTitleHtml": "Garden Museum Visit"
+    },
+    {
+      "title": "Spring Road Trip",
+      "imageCount": 10,
+      "locale": "nl",
+      "expectedTitleHtml": "Spring Road Trip"
+    },
+    {
+      "title": "Family Hike",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Family Hike"
+    },
+    {
+      "title": "Early Hike",
+      "imageCount": 20,
+      "locale": "da",
+      "expectedTitleHtml": "Early Hike"
+    },
+    {
+      "title": "Misty Walk",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Misty Walk"
+    },
+    {
+      "title": "Mountain Picnic",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "Mountain Picnic"
+    },
+    {
+      "title": "Winter Bike Ride Tom & Jerry",
+      "imageCount": 10,
+      "locale": "pl",
+      "expectedTitleHtml": "Winter Bike Ride Tom &amp; Jerry"
+    },
+    {
+      "title": "Ünïcödé \"test\" Misty Ferry \"><svg onload=alert(1)>",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Misty Ferry &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Snowy Campfire Tom & Jerry",
+      "imageCount": 10,
+      "locale": "tr",
+      "expectedTitleHtml": "Snowy Campfire Tom &amp; Jerry"
+    },
+    {
+      "title": "Late Road Trip",
+      "imageCount": 5,
+      "locale": "ru",
+      "expectedTitleHtml": "Late Road Trip"
+    },
+    {
+      "title": "Ünïcödé \"test\" Autumn Bike Ride <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Autumn Bike Ride &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Golden Beach Day",
+      "imageCount": 4,
+      "locale": "ja",
+      "expectedTitleHtml": "Golden Beach Day"
+    },
+    {
+      "title": "Late Hike",
+      "imageCount": 7,
+      "locale": "ko",
+      "expectedTitleHtml": "Late Hike"
+    },
+    {
+      "title": "Early Market",
+      "imageCount": 20,
+      "locale": "zh",
+      "expectedTitleHtml": "Early Market"
+    },
+    {
+      "title": "Rainy Bike Ride",
+      "imageCount": 3,
+      "locale": "id",
+      "expectedTitleHtml": "Rainy Bike Ride"
+    }
+  ]
+}

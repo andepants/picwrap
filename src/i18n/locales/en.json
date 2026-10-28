@@ -1,0 +1,17 @@
+{
+  "name": "English",
+  "photoCount": {
+    "one": "{count} photo",
+    "other": "{count} photos"
+  },
+  "copyLink": "Copy link",
+  "openPhoto": "Open photo {n} of {total}",
+  "photoAlt": "Photo {n}",
+  "viewer": "Photo viewer",
+  "close": "Close",
+  "previous": "Previous photo",
+  "next": "Next photo",
+  "notFoundTitle": "Gallery not found",
+  "notFoundBody": "It may have expired. Galleries are kept for 30 days.",
+  "makeNew": "Make a new one"
+}

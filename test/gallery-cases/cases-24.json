@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 24 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "'single' Misty Museum Visit \"quoted\"",
+      "imageCount": 20,
+      "locale": "ja",
+      "expectedTitleHtml": "&#39;single&#39; Misty Museum Visit &quot;quoted&quot;"
+    },
+    {
+      "title": "Tom & Jerry Late Market \"quoted\"",
+      "imageCount": 4,
+      "locale": "ko",
+      "expectedTitleHtml": "Tom &amp; Jerry Late Market &quot;quoted&quot;"
+    },
+    {
+      "title": "Late Reunion",
+      "imageCount": 7,
+      "locale": "zh",
+      "expectedTitleHtml": "Late Reunion"
+    },
+    {
+      "title": "\"quoted\" Backyard Game Night Tom & Jerry",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "&quot;quoted&quot; Backyard Game Night Tom &amp; Jerry"
+    },
+    {
+      "title": "Sunny Museum Visit &amp; already",
+      "imageCount": 3,
+      "locale": "en",
+      "expectedTitleHtml": "Sunny Museum Visit &amp;amp; already"
+    },
+    {
+      "title": "Family Road Trip",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Family Road Trip"
+    },
+    {
+      "title": "Early Reunion Ünïcödé \"test\"",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Early Reunion Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Quiet Museum Visit it's",
+      "imageCount": 19,
+      "locale": "de",
+      "expectedTitleHtml": "Quiet Museum Visit it&#39;s"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Summer Trip <b>bold</b>",
+      "imageCount": 7,
+      "locale": "it",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Summer Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Harbor Beach Day <b>bold</b>",
+      "imageCount": 10,
+      "locale": "pt",
+      "expectedTitleHtml": "Harbor Beach Day &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Misty Sunset",
+      "imageCount": 7,
+      "locale": "nl",
+      "expectedTitleHtml": "Misty Sunset"
+    },
+    {
+      "title": "Harbor Picnic <b>bold</b>",
+      "imageCount": 5,
+      "locale": "sv",
+      "expectedTitleHtml": "Harbor Picnic &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Backyard Bike Ride",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Backyard Bike Ride"
+    },
+    {
+      "title": "Harbor Beach Day <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Harbor Beach Day &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Quiet Reunion \"><svg onload=alert(1)>",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Quiet Reunion &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "<script>alert(1)</script> Autumn Concert \"quoted\"",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Autumn Concert &quot;quoted&quot;"
+    },
+    {
+      "title": "Harbor Beach Day 5 > 3 & 2 < 4",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Harbor Beach Day 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Weekend Campfire",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Weekend Campfire"
+    },
+    {
+      "title": "Mountain Sunset Tom & Jerry",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Mountain Sunset Tom &amp; Jerry"
+    },
+    {
+      "title": "Misty Concert",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Misty Concert"
+    },
+    {
+      "title": "<b>bold</b> Winter Museum Visit it's",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Winter Museum Visit it&#39;s"
+    },
+    {
+      "title": "Café & Crème Snowy Campfire <img src=x onerror=alert(1)>",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "Café &amp; Crème Snowy Campfire &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Garden Road Trip",
+      "imageCount": 2,
+      "locale": "zh",
+      "expectedTitleHtml": "Garden Road Trip"
+    },
+    {
+      "title": "Misty Road Trip emoji 📷 & <3",
+      "imageCount": 20,
+      "locale": "id",
+      "expectedTitleHtml": "Misty Road Trip emoji 📷 &amp; &lt;3"
+    }
+  ]
+}

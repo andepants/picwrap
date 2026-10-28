@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 42 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Mountain Museum Visit",
+      "imageCount": 3,
+      "locale": "da",
+      "expectedTitleHtml": "Mountain Museum Visit"
+    },
+    {
+      "title": "Garden Bike Ride <b>bold</b>",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Garden Bike Ride &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "<script>alert(1)</script> Backyard Ferry Café & Crème",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Backyard Ferry Café &amp; Crème"
+    },
+    {
+      "title": "Sunny Road Trip",
+      "imageCount": 12,
+      "locale": "pl",
+      "expectedTitleHtml": "Sunny Road Trip"
+    },
+    {
+      "title": "'single' Winter Beach Day <img src=x onerror=alert(1)>",
+      "imageCount": 7,
+      "locale": "cs",
+      "expectedTitleHtml": "&#39;single&#39; Winter Beach Day &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Misty Game Night",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "Misty Game Night"
+    },
+    {
+      "title": "Garden Bake Sale",
+      "imageCount": 12,
+      "locale": "ru",
+      "expectedTitleHtml": "Garden Bake Sale"
+    },
+    {
+      "title": "Sunny Ferry Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Sunny Ferry Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "<script>alert(1)</script> Summer Museum Visit <img src=x onerror=alert(1)>",
+      "imageCount": 7,
+      "locale": "ja",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Summer Museum Visit &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Sunny Bake Sale \"quoted\"",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Sunny Bake Sale &quot;quoted&quot;"
+    },
+    {
+      "title": "Harbor Bike Ride",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Harbor Bike Ride"
+    },
+    {
+      "title": "<b>bold</b> Weekend Concert \"><svg onload=alert(1)>",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Weekend Concert &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Winter Hike <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Winter Hike &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Coastal Game Night",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "Coastal Game Night"
+    },
+    {
+      "title": "&amp; already Autumn Bike Ride emoji 📷 & <3",
+      "imageCount": 12,
+      "locale": "fr",
+      "expectedTitleHtml": "&amp;amp; already Autumn Bike Ride emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "City Wedding Toast",
+      "imageCount": 5,
+      "locale": "de",
+      "expectedTitleHtml": "City Wedding Toast"
+    },
+    {
+      "title": "Sunny Walk Café & Crème",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Sunny Walk Café &amp; Crème"
+    },
+    {
+      "title": "Summer Beach Day &amp; already",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Beach Day &amp;amp; already"
+    },
+    {
+      "title": "Rainy Bake Sale <b>bold</b>",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Bake Sale &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Harbor Campfire 東京 <夜>",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Harbor Campfire 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Summer Museum Visit 東京 <夜>",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Summer Museum Visit 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Early Walk",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Early Walk"
+    },
+    {
+      "title": "Family Festival",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Family Festival"
+    },
+    {
+      "title": "Golden Museum Visit",
+      "imageCount": 7,
+      "locale": "pl",
+      "expectedTitleHtml": "Golden Museum Visit"
+    }
+  ]
+}

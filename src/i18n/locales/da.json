@@ -1,0 +1,17 @@
+{
+  "name": "Dansk",
+  "photoCount": {
+    "one": "{count} billede",
+    "other": "{count} billeder"
+  },
+  "copyLink": "Kopiér link",
+  "openPhoto": "Åbn billede {n} af {total}",
+  "photoAlt": "Billede {n}",
+  "viewer": "Billedfremviser",
+  "close": "Luk",
+  "previous": "Forrige billede",
+  "next": "Næste billede",
+  "notFoundTitle": "Galleriet blev ikke fundet",
+  "notFoundBody": "Det er muligvis udløbet. Gallerier gemmes i 30 dage.",
+  "makeNew": "Opret et nyt"
+}

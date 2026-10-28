@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 43 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Family Trip <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Family Trip &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Early Picnic Tom & Jerry",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Early Picnic Tom &amp; Jerry"
+    },
+    {
+      "title": "emoji 📷 & <3 Family Wedding Toast <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Family Wedding Toast &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Golden Sunset",
+      "imageCount": 2,
+      "locale": "uk",
+      "expectedTitleHtml": "Golden Sunset"
+    },
+    {
+      "title": "Coastal Beach Day",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "Coastal Beach Day"
+    },
+    {
+      "title": "&amp; already Coastal Graduation Café & Crème",
+      "imageCount": 10,
+      "locale": "ko",
+      "expectedTitleHtml": "&amp;amp; already Coastal Graduation Café &amp; Crème"
+    },
+    {
+      "title": "Winter Sunset",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Winter Sunset"
+    },
+    {
+      "title": "<script>alert(1)</script> Garden Campfire 東京 <夜>",
+      "imageCount": 10,
+      "locale": "id",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Garden Campfire 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Summer Concert it's",
+      "imageCount": 20,
+      "locale": "en",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Summer Concert it&#39;s"
+    },
+    {
+      "title": "Spring Festival",
+      "imageCount": 5,
+      "locale": "es",
+      "expectedTitleHtml": "Spring Festival"
+    },
+    {
+      "title": "Café & Crème Winter Road Trip emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "fr",
+      "expectedTitleHtml": "Café &amp; Crème Winter Road Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Summer Walk",
+      "imageCount": 2,
+      "locale": "de",
+      "expectedTitleHtml": "Summer Walk"
+    },
+    {
+      "title": "Golden Reunion",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Golden Reunion"
+    },
+    {
+      "title": "Summer Walk it's",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Walk it&#39;s"
+    },
+    {
+      "title": "Mountain Game Night",
+      "imageCount": 2,
+      "locale": "nl",
+      "expectedTitleHtml": "Mountain Game Night"
+    },
+    {
+      "title": "Mountain Hike <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Mountain Hike &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Tom & Jerry Golden Picnic \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "da",
+      "expectedTitleHtml": "Tom &amp; Jerry Golden Picnic &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Golden Ferry",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Golden Ferry"
+    },
+    {
+      "title": "Golden Sunset Tom & Jerry",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "Golden Sunset Tom &amp; Jerry"
+    },
+    {
+      "title": "\"quoted\" Snowy Game Night \"quoted\"",
+      "imageCount": 3,
+      "locale": "pl",
+      "expectedTitleHtml": "&quot;quoted&quot; Snowy Game Night &quot;quoted&quot;"
+    },
+    {
+      "title": "City Bike Ride",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "City Bike Ride"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Harbor Wedding Toast \"quoted\"",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Harbor Wedding Toast &quot;quoted&quot;"
+    },
+    {
+      "title": "Spring Picnic Tom & Jerry",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Spring Picnic Tom &amp; Jerry"
+    },
+    {
+      "title": "Sunny Birthday 5 > 3 & 2 < 4",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Sunny Birthday 5 &gt; 3 &amp; 2 &lt; 4"
+    }
+  ]
+}

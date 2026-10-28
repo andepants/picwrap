@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 38 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Garden Reunion <img src=x onerror=alert(1)>",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "Garden Reunion &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Backyard Concert emoji 📷 & <3",
+      "imageCount": 2,
+      "locale": "tr",
+      "expectedTitleHtml": "Backyard Concert emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Misty Concert <b>bold</b>",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Misty Concert &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Harbor Festival <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 5,
+      "locale": "uk",
+      "expectedTitleHtml": "Harbor Festival &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "&amp; already Mountain Concert <b>bold</b>",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "&amp;amp; already Mountain Concert &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Rainy Reunion",
+      "imageCount": 20,
+      "locale": "ko",
+      "expectedTitleHtml": "Rainy Reunion"
+    },
+    {
+      "title": "Autumn Road Trip &amp; already",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "Autumn Road Trip &amp;amp; already"
+    },
+    {
+      "title": "Early Reunion",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "Early Reunion"
+    },
+    {
+      "title": "Backyard Graduation",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Backyard Graduation"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Sunny Graduation emoji 📷 & <3",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Sunny Graduation emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Autumn Reunion",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Autumn Reunion"
+    },
+    {
+      "title": "'single' Late Game Night Café & Crème",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "&#39;single&#39; Late Game Night Café &amp; Crème"
+    },
+    {
+      "title": "Summer Hike it's",
+      "imageCount": 5,
+      "locale": "it",
+      "expectedTitleHtml": "Summer Hike it&#39;s"
+    },
+    {
+      "title": "Weekend Festival 'single'",
+      "imageCount": 20,
+      "locale": "pt",
+      "expectedTitleHtml": "Weekend Festival &#39;single&#39;"
+    },
+    {
+      "title": "Golden Hike",
+      "imageCount": 5,
+      "locale": "nl",
+      "expectedTitleHtml": "Golden Hike"
+    },
+    {
+      "title": "Garden Beach Day 'single'",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Garden Beach Day &#39;single&#39;"
+    },
+    {
+      "title": "Late Road Trip it's",
+      "imageCount": 10,
+      "locale": "da",
+      "expectedTitleHtml": "Late Road Trip it&#39;s"
+    },
+    {
+      "title": "Autumn Ferry",
+      "imageCount": 10,
+      "locale": "nb",
+      "expectedTitleHtml": "Autumn Ferry"
+    },
+    {
+      "title": "emoji 📷 & <3 Quiet Bike Ride <img src=x onerror=alert(1)>",
+      "imageCount": 4,
+      "locale": "fi",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Quiet Bike Ride &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Quiet Walk a < b > c",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Quiet Walk a &lt; b &gt; c"
+    },
+    {
+      "title": "<b>bold</b> Winter Road Trip Tom & Jerry",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Winter Road Trip Tom &amp; Jerry"
+    },
+    {
+      "title": "Family Ferry &amp; already",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Family Ferry &amp;amp; already"
+    },
+    {
+      "title": "Harbor Ferry",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Harbor Ferry"
+    },
+    {
+      "title": "Mountain Picnic Tom & Jerry",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Mountain Picnic Tom &amp; Jerry"
+    }
+  ]
+}

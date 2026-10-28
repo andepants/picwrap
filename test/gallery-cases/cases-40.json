@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 40 (mixed scripts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Winter Museum Visit <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "Winter Museum Visit &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Tom & Jerry Autumn Festival \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "es",
+      "expectedTitleHtml": "Tom &amp; Jerry Autumn Festival &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Late Sunset 5 > 3 & 2 < 4",
+      "imageCount": 12,
+      "locale": "fr",
+      "expectedTitleHtml": "Late Sunset 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Early Bike Ride",
+      "imageCount": 7,
+      "locale": "de",
+      "expectedTitleHtml": "Early Bike Ride"
+    },
+    {
+      "title": "it's Autumn Bike Ride <script>alert(1)</script>",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "it&#39;s Autumn Bike Ride &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Spring Market",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Spring Market"
+    },
+    {
+      "title": "Coastal Beach Day Tom & Jerry",
+      "imageCount": 12,
+      "locale": "nl",
+      "expectedTitleHtml": "Coastal Beach Day Tom &amp; Jerry"
+    },
+    {
+      "title": "emoji 📷 & <3 Quiet Walk <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Quiet Walk &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Early Bake Sale <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Early Bake Sale &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Harbor Bake Sale",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "Harbor Bake Sale"
+    },
+    {
+      "title": "Rainy Market",
+      "imageCount": 2,
+      "locale": "fi",
+      "expectedTitleHtml": "Rainy Market"
+    },
+    {
+      "title": "Weekend Concert 5 > 3 & 2 < 4",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Weekend Concert 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Golden Birthday",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Golden Birthday"
+    },
+    {
+      "title": "Late Market it's",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Late Market it&#39;s"
+    },
+    {
+      "title": "emoji 📷 & <3 City Bike Ride Ünïcödé \"test\"",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 City Bike Ride Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "<script>alert(1)</script> Misty Festival 'single'",
+      "imageCount": 12,
+      "locale": "uk",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Misty Festival &#39;single&#39;"
+    },
+    {
+      "title": "Coastal Trip",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Coastal Trip"
+    },
+    {
+      "title": "Late Museum Visit",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "Late Museum Visit"
+    },
+    {
+      "title": "Sunny Walk",
+      "imageCount": 2,
+      "locale": "zh",
+      "expectedTitleHtml": "Sunny Walk"
+    },
+    {
+      "title": "Family Wedding Toast Tom & Jerry",
+      "imageCount": 10,
+      "locale": "id",
+      "expectedTitleHtml": "Family Wedding Toast Tom &amp; Jerry"
+    },
+    {
+      "title": "Rainy Birthday 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Rainy Birthday 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Garden Bake Sale Café & Crème",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Garden Bake Sale Café &amp; Crème"
+    },
+    {
+      "title": "Backyard Graduation \"quoted\"",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Backyard Graduation &quot;quoted&quot;"
+    },
+    {
+      "title": "Rainy Game Night",
+      "imageCount": 3,
+      "locale": "de",
+      "expectedTitleHtml": "Rainy Game Night"
+    }
+  ]
+}

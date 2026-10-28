@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 15 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "東京 <夜> Misty Campfire <script>alert(1)</script>",
+      "imageCount": 7,
+      "locale": "en",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Misty Campfire &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Misty Bike Ride",
+      "imageCount": 7,
+      "locale": "es",
+      "expectedTitleHtml": "Misty Bike Ride"
+    },
+    {
+      "title": "Snowy Festival",
+      "imageCount": 7,
+      "locale": "fr",
+      "expectedTitleHtml": "Snowy Festival"
+    },
+    {
+      "title": "Tom & Jerry Summer Road Trip emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "de",
+      "expectedTitleHtml": "Tom &amp; Jerry Summer Road Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Family Bike Ride",
+      "imageCount": 2,
+      "locale": "it",
+      "expectedTitleHtml": "Family Bike Ride"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Family Wedding Toast <img src=x onerror=alert(1)>",
+      "imageCount": 12,
+      "locale": "pt",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Family Wedding Toast &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Autumn Ferry",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "Autumn Ferry"
+    },
+    {
+      "title": "Golden Reunion 'single'",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Golden Reunion &#39;single&#39;"
+    },
+    {
+      "title": "'single' Golden Bike Ride <script>alert(1)</script>",
+      "imageCount": 7,
+      "locale": "da",
+      "expectedTitleHtml": "&#39;single&#39; Golden Bike Ride &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Mountain Festival",
+      "imageCount": 7,
+      "locale": "nb",
+      "expectedTitleHtml": "Mountain Festival"
+    },
+    {
+      "title": "Garden Beach Day <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Garden Beach Day &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Late Birthday",
+      "imageCount": 12,
+      "locale": "pl",
+      "expectedTitleHtml": "Late Birthday"
+    },
+    {
+      "title": "Golden Reunion 東京 <夜>",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "Golden Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Winter Market Tom & Jerry",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "Winter Market Tom &amp; Jerry"
+    },
+    {
+      "title": "Winter Picnic",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Winter Picnic"
+    },
+    {
+      "title": "Snowy Road Trip it's",
+      "imageCount": 2,
+      "locale": "uk",
+      "expectedTitleHtml": "Snowy Road Trip it&#39;s"
+    },
+    {
+      "title": "Winter Bake Sale \"quoted\"",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Winter Bake Sale &quot;quoted&quot;"
+    },
+    {
+      "title": "Mountain Ferry",
+      "imageCount": 12,
+      "locale": "ko",
+      "expectedTitleHtml": "Mountain Ferry"
+    },
+    {
+      "title": "Summer Hike",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Summer Hike"
+    },
+    {
+      "title": "Golden Concert <img src=x onerror=alert(1)>",
+      "imageCount": 5,
+      "locale": "id",
+      "expectedTitleHtml": "Golden Concert &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Backyard Beach Day",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "Backyard Beach Day"
+    },
+    {
+      "title": "Rainy Bike Ride <img src=x onerror=alert(1)>",
+      "imageCount": 7,
+      "locale": "es",
+      "expectedTitleHtml": "Rainy Bike Ride &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Snowy Festival",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Snowy Festival"
+    },
+    {
+      "title": "Golden Festival",
+      "imageCount": 2,
+      "locale": "de",
+      "expectedTitleHtml": "Golden Festival"
+    }
+  ]
+}

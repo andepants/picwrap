@@ -1,3 +1,5 @@
+import { DEFAULT_LOCALE, photoCount, t, type Locale } from "./i18n";
+
 const ESCAPES: Record<string, string> = {
   "&": "&amp;",
   "<": "&lt;",
@@ -17,15 +19,19 @@ export interface GalleryView {
   imageCount: number;
 }
 
-export function renderGalleryPage(g: GalleryView): string {
+export function renderGalleryPage(g: GalleryView, locale: Locale = DEFAULT_LOCALE): string {
   const title = escapeHtml(g.title);
+  const msg = (key: Parameters<typeof t>[1], vars?: Record<string, number>) =>
+    escapeHtml(t(locale, key, vars));
   const tiles = Array.from({ length: g.imageCount }, (_, i) => {
     const src = `/i/${g.id}/${i}`;
-    return `<li><button class="tile" type="button" data-index="${i}" aria-label="Open photo ${i + 1} of ${g.imageCount}"><img src="${src}" alt="Photo ${i + 1}" loading="lazy" decoding="async"></button></li>`;
+    const label = msg("openPhoto", { n: i + 1, total: g.imageCount });
+    const alt = msg("photoAlt", { n: i + 1 });
+    return `<li><button class="tile" type="button" data-index="${i}" aria-label="${label}"><img src="${src}" alt="${alt}" loading="lazy" decoding="async"></button></li>`;
   }).join("\n");
-  const count = `${g.imageCount} photo${g.imageCount === 1 ? "" : "s"}`;
+  const count = escapeHtml(photoCount(locale, g.imageCount));
   return `<!doctype html>
-<html lang="en">
+<html lang="${locale}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,7 +42,7 @@ export function renderGalleryPage(g: GalleryView): string {
 <link rel="stylesheet" href="/style.css">
 </head>
 <body class="gallery-page">
-<header class="bar"><a class="brand" href="/">PicWrap</a><button class="btn ghost" id="copy" type="button">Copy link</button></header>
+<header class="bar"><a class="brand" href="/">PicWrap</a><button class="btn ghost" id="copy" type="button">${msg("copyLink")}</button></header>
 <main class="wrap">
 <h1 class="g-title">${title}</h1>
 <p class="muted">${count}</p>
@@ -44,22 +50,25 @@ export function renderGalleryPage(g: GalleryView): string {
 ${tiles}
 </ul>
 </main>
-<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
-<button class="lb-btn lb-close" id="lb-close" type="button" aria-label="Close">×</button>
-<button class="lb-btn lb-prev" id="lb-prev" type="button" aria-label="Previous photo">‹</button>
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="${msg("viewer")}" hidden>
+<button class="lb-btn lb-close" id="lb-close" type="button" aria-label="${msg("close")}">×</button>
+<button class="lb-btn lb-prev" id="lb-prev" type="button" aria-label="${msg("previous")}">‹</button>
 <figure><img id="lb-img" alt=""><figcaption id="lb-cap"></figcaption></figure>
-<button class="lb-btn lb-next" id="lb-next" type="button" aria-label="Next photo">›</button>
+<button class="lb-btn lb-next" id="lb-next" type="button" aria-label="${msg("next")}">›</button>
 </div>
 <script type="module" src="/js/gallery.js"></script>
 </body>
 </html>`;
 }
 
-export function renderNotFound(): string {
+export function renderNotFound(locale: Locale = DEFAULT_LOCALE): string {
+  const heading = escapeHtml(t(locale, "notFoundTitle"));
+  const body = escapeHtml(t(locale, "notFoundBody"));
+  const makeNew = escapeHtml(t(locale, "makeNew"));
   return `<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gallery not found · PicWrap</title><link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<html lang="${locale}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${heading} · PicWrap</title><link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css"></head>
 <body><header class="bar"><a class="brand" href="/">PicWrap</a></header>
-<main class="wrap center"><h1>Gallery not found</h1><p class="muted">It may have expired. Galleries are kept for 30 days.</p><p><a class="btn" href="/">Make a new one</a></p></main></body></html>`;
+<main class="wrap center"><h1>${heading}</h1><p class="muted">${body}</p><p><a class="btn" href="/">${makeNew}</a></p></main></body></html>`;
 }

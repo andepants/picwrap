@@ -64,6 +64,35 @@ describe("gallery fetch", () => {
     expect(page).toContain('data-index="0"');
   });
 
+  it("localizes the share page from Accept-Language and falls back to English", async () => {
+    const env = makeEnv();
+    const { id } = await create(env, "Garten");
+    const de = await handle(
+      new Request(`https://picwrap.test/g/${id}`, { headers: { "Accept-Language": "de-AT,de;q=0.9" } }),
+      env,
+    );
+    expect(de.headers.get("Content-Language")).toBe("de");
+    expect(de.headers.get("Vary")).toBe("Accept-Language");
+    const page = await de.text();
+    expect(page).toContain('<html lang="de">');
+    expect(page).toContain(">Link kopieren</button>");
+    expect(page).toContain("2 Fotos");
+
+    const fallback = await handle(
+      new Request(`https://picwrap.test/g/${id}`, { headers: { "Accept-Language": "tlh" } }),
+      env,
+    );
+    expect(fallback.headers.get("Content-Language")).toBe("en");
+    expect(await fallback.text()).toContain("2 photos");
+
+    const missing = await handle(
+      new Request("https://picwrap.test/g/abcdefghijkm", { headers: { "Accept-Language": "fr" } }),
+      env,
+    );
+    expect(missing.status).toBe(404);
+    expect(await missing.text()).toContain("Galerie introuvable");
+  });
+
   it("serves image bytes with the sniffed content type and nosniff", async () => {
     const env = makeEnv();
     const { id } = await create(env, "Garden");

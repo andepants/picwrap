@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 36 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Quiet Beach Day &amp; already",
+      "imageCount": 5,
+      "locale": "it",
+      "expectedTitleHtml": "Quiet Beach Day &amp;amp; already"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Winter Road Trip emoji 📷 & <3",
+      "imageCount": 20,
+      "locale": "pt",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Winter Road Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Rainy Game Night",
+      "imageCount": 20,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Game Night"
+    },
+    {
+      "title": "a < b > c Misty Walk emoji 📷 & <3",
+      "imageCount": 2,
+      "locale": "sv",
+      "expectedTitleHtml": "a &lt; b &gt; c Misty Walk emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Misty Road Trip Café & Crème",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Misty Road Trip Café &amp; Crème"
+    },
+    {
+      "title": "Golden Hike",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "Golden Hike"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Weekend Road Trip emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "fi",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Weekend Road Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Golden Wedding Toast",
+      "imageCount": 12,
+      "locale": "pl",
+      "expectedTitleHtml": "Golden Wedding Toast"
+    },
+    {
+      "title": "<script>alert(1)</script> Early Trip \"quoted\"",
+      "imageCount": 2,
+      "locale": "cs",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Early Trip &quot;quoted&quot;"
+    },
+    {
+      "title": "Golden Bike Ride",
+      "imageCount": 10,
+      "locale": "tr",
+      "expectedTitleHtml": "Golden Bike Ride"
+    },
+    {
+      "title": "Garden Beach Day 5 > 3 & 2 < 4",
+      "imageCount": 5,
+      "locale": "ru",
+      "expectedTitleHtml": "Garden Beach Day 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Late Picnic",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Late Picnic"
+    },
+    {
+      "title": "Snowy Festival \"quoted\"",
+      "imageCount": 4,
+      "locale": "ja",
+      "expectedTitleHtml": "Snowy Festival &quot;quoted&quot;"
+    },
+    {
+      "title": "Early Museum Visit",
+      "imageCount": 4,
+      "locale": "ko",
+      "expectedTitleHtml": "Early Museum Visit"
+    },
+    {
+      "title": "Summer Graduation",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "Summer Graduation"
+    },
+    {
+      "title": "Late Trip",
+      "imageCount": 7,
+      "locale": "id",
+      "expectedTitleHtml": "Late Trip"
+    },
+    {
+      "title": "Snowy Concert",
+      "imageCount": 5,
+      "locale": "en",
+      "expectedTitleHtml": "Snowy Concert"
+    },
+    {
+      "title": "<script>alert(1)</script> Autumn Campfire Café & Crème",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Autumn Campfire Café &amp; Crème"
+    },
+    {
+      "title": "Garden Trip 東京 <夜>",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Garden Trip 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Harbor Birthday",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "Harbor Birthday"
+    },
+    {
+      "title": "Coastal Birthday a < b > c",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "Coastal Birthday a &lt; b &gt; c"
+    },
+    {
+      "title": "Backyard Concert \"quoted\"",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "Backyard Concert &quot;quoted&quot;"
+    },
+    {
+      "title": "<script>alert(1)</script> Mountain Ferry \"quoted\"",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Mountain Ferry &quot;quoted&quot;"
+    },
+    {
+      "title": "Winter Trip \"><svg onload=alert(1)>",
+      "imageCount": 3,
+      "locale": "sv",
+      "expectedTitleHtml": "Winter Trip &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    }
+  ]
+}

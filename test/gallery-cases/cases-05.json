@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 5 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Sunny Picnic",
+      "imageCount": 20,
+      "locale": "en",
+      "expectedTitleHtml": "Sunny Picnic"
+    },
+    {
+      "title": "Early Picnic",
+      "imageCount": 1,
+      "locale": "es",
+      "expectedTitleHtml": "Early Picnic"
+    },
+    {
+      "title": "Spring Road Trip a < b > c",
+      "imageCount": 20,
+      "locale": "fr",
+      "expectedTitleHtml": "Spring Road Trip a &lt; b &gt; c"
+    },
+    {
+      "title": "Harbor Museum Visit a < b > c",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Harbor Museum Visit a &lt; b &gt; c"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Weekend Picnic 東京 <夜>",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Weekend Picnic 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "City Market",
+      "imageCount": 2,
+      "locale": "pt",
+      "expectedTitleHtml": "City Market"
+    },
+    {
+      "title": "Family Road Trip it's",
+      "imageCount": 2,
+      "locale": "nl",
+      "expectedTitleHtml": "Family Road Trip it&#39;s"
+    },
+    {
+      "title": "Backyard Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Backyard Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Summer Graduation 'single'",
+      "imageCount": 20,
+      "locale": "da",
+      "expectedTitleHtml": "Summer Graduation &#39;single&#39;"
+    },
+    {
+      "title": "Spring Hike a < b > c",
+      "imageCount": 12,
+      "locale": "nb",
+      "expectedTitleHtml": "Spring Hike a &lt; b &gt; c"
+    },
+    {
+      "title": "emoji 📷 & <3 Garden Walk Café & Crème",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Garden Walk Café &amp; Crème"
+    },
+    {
+      "title": "Mountain Campfire <script>alert(1)</script>",
+      "imageCount": 2,
+      "locale": "pl",
+      "expectedTitleHtml": "Mountain Campfire &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "City Road Trip",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "City Road Trip"
+    },
+    {
+      "title": "Coastal Beach Day",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Coastal Beach Day"
+    },
+    {
+      "title": "Garden Campfire <b>bold</b>",
+      "imageCount": 2,
+      "locale": "ru",
+      "expectedTitleHtml": "Garden Campfire &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Misty Birthday \"quoted\"",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Misty Birthday &quot;quoted&quot;"
+    },
+    {
+      "title": "Early Concert",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Early Concert"
+    },
+    {
+      "title": "Snowy Road Trip 'single'",
+      "imageCount": 2,
+      "locale": "ko",
+      "expectedTitleHtml": "Snowy Road Trip &#39;single&#39;"
+    },
+    {
+      "title": "Coastal Bike Ride",
+      "imageCount": 7,
+      "locale": "zh",
+      "expectedTitleHtml": "Coastal Bike Ride"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Autumn Festival a < b > c",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Autumn Festival a &lt; b &gt; c"
+    },
+    {
+      "title": "Café & Crème Summer Campfire \"quoted\"",
+      "imageCount": 20,
+      "locale": "en",
+      "expectedTitleHtml": "Café &amp; Crème Summer Campfire &quot;quoted&quot;"
+    },
+    {
+      "title": "Sunny Hike",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "Sunny Hike"
+    },
+    {
+      "title": "東京 <夜> Sunny Trip emoji 📷 & <3",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Sunny Trip emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Family Festival 東京 <夜>",
+      "imageCount": 5,
+      "locale": "de",
+      "expectedTitleHtml": "Family Festival 東京 &lt;夜&gt;"
+    }
+  ]
+}

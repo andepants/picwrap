@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 9 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Misty Concert 'single'",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "Misty Concert &#39;single&#39;"
+    },
+    {
+      "title": "Family Picnic <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 10,
+      "locale": "ko",
+      "expectedTitleHtml": "Family Picnic &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Early Museum Visit",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Early Museum Visit"
+    },
+    {
+      "title": "Coastal Sunset",
+      "imageCount": 20,
+      "locale": "id",
+      "expectedTitleHtml": "Coastal Sunset"
+    },
+    {
+      "title": "Tom & Jerry Mountain Market emoji 📷 & <3",
+      "imageCount": 19,
+      "locale": "en",
+      "expectedTitleHtml": "Tom &amp; Jerry Mountain Market emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Coastal Sunset <img src=x onerror=alert(1)>",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "Coastal Sunset &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Golden Sunset",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Golden Sunset"
+    },
+    {
+      "title": "Autumn Market \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "Autumn Market &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Mountain Festival <img src=x onerror=alert(1)>",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "Mountain Festival &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "&amp; already Spring Graduation 'single'",
+      "imageCount": 3,
+      "locale": "pt",
+      "expectedTitleHtml": "&amp;amp; already Spring Graduation &#39;single&#39;"
+    },
+    {
+      "title": "Mountain Walk",
+      "imageCount": 10,
+      "locale": "nl",
+      "expectedTitleHtml": "Mountain Walk"
+    },
+    {
+      "title": "Summer Sunset",
+      "imageCount": 5,
+      "locale": "sv",
+      "expectedTitleHtml": "Summer Sunset"
+    },
+    {
+      "title": "Tom & Jerry Backyard Bike Ride \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "Tom &amp; Jerry Backyard Bike Ride &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Tom & Jerry Misty Concert \"><svg onload=alert(1)>",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "Tom &amp; Jerry Misty Concert &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Snowy Graduation <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Snowy Graduation &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Golden Road Trip",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Golden Road Trip"
+    },
+    {
+      "title": "Spring Bike Ride a < b > c",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Spring Bike Ride a &lt; b &gt; c"
+    },
+    {
+      "title": "Snowy Concert",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Snowy Concert"
+    },
+    {
+      "title": "Winter Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Winter Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Misty Trip",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Misty Trip"
+    },
+    {
+      "title": "Garden Reunion",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "Garden Reunion"
+    },
+    {
+      "title": "'single' Garden Wedding Toast &amp; already",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "&#39;single&#39; Garden Wedding Toast &amp;amp; already"
+    },
+    {
+      "title": "Sunny Ferry",
+      "imageCount": 4,
+      "locale": "zh",
+      "expectedTitleHtml": "Sunny Ferry"
+    },
+    {
+      "title": "Late Campfire Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "Late Campfire Ünïcödé &quot;test&quot;"
+    }
+  ]
+}

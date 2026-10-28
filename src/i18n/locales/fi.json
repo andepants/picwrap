@@ -1,0 +1,17 @@
+{
+  "name": "Suomi",
+  "photoCount": {
+    "one": "{count} kuva",
+    "other": "{count} kuvaa"
+  },
+  "copyLink": "Kopioi linkki",
+  "openPhoto": "Avaa kuva {n}/{total}",
+  "photoAlt": "Kuva {n}",
+  "viewer": "Kuvankatselu",
+  "close": "Sulje",
+  "previous": "Edellinen kuva",
+  "next": "Seuraava kuva",
+  "notFoundTitle": "Galleriaa ei löytynyt",
+  "notFoundBody": "Se on ehkä vanhentunut. Gallerioita säilytetään 30 päivää.",
+  "makeNew": "Luo uusi"
+}

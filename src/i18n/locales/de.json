@@ -1,0 +1,17 @@
+{
+  "name": "Deutsch",
+  "photoCount": {
+    "one": "{count} Foto",
+    "other": "{count} Fotos"
+  },
+  "copyLink": "Link kopieren",
+  "openPhoto": "Foto {n} von {total} öffnen",
+  "photoAlt": "Foto {n}",
+  "viewer": "Fotoanzeige",
+  "close": "Schließen",
+  "previous": "Vorheriges Foto",
+  "next": "Nächstes Foto",
+  "notFoundTitle": "Galerie nicht gefunden",
+  "notFoundBody": "Sie ist möglicherweise abgelaufen. Galerien werden 30 Tage lang aufbewahrt.",
+  "makeNew": "Neue Galerie erstellen"
+}

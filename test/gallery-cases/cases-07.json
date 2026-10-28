@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 7 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "City Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "da",
+      "expectedTitleHtml": "City Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Winter Festival",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Winter Festival"
+    },
+    {
+      "title": "Weekend Museum Visit a < b > c",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "Weekend Museum Visit a &lt; b &gt; c"
+    },
+    {
+      "title": "Early Reunion Ünïcödé \"test\"",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Early Reunion Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Early Trip",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Early Trip"
+    },
+    {
+      "title": "Summer Market 'single'",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Summer Market &#39;single&#39;"
+    },
+    {
+      "title": "Spring Birthday <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Spring Birthday &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Spring Bake Sale \"quoted\"",
+      "imageCount": 20,
+      "locale": "uk",
+      "expectedTitleHtml": "Spring Bake Sale &quot;quoted&quot;"
+    },
+    {
+      "title": "City Hike \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "ja",
+      "expectedTitleHtml": "City Hike &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "City Wedding Toast <b>bold</b>",
+      "imageCount": 20,
+      "locale": "ko",
+      "expectedTitleHtml": "City Wedding Toast &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Winter Sunset",
+      "imageCount": 5,
+      "locale": "zh",
+      "expectedTitleHtml": "Winter Sunset"
+    },
+    {
+      "title": "City Picnic",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "City Picnic"
+    },
+    {
+      "title": "Early Hike",
+      "imageCount": 2,
+      "locale": "en",
+      "expectedTitleHtml": "Early Hike"
+    },
+    {
+      "title": "Mountain Trip Tom & Jerry",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Mountain Trip Tom &amp; Jerry"
+    },
+    {
+      "title": "東京 <夜> Coastal Sunset <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "fr",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Coastal Sunset &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Ünïcödé \"test\" Rainy Campfire <script>alert(1)</script>",
+      "imageCount": 2,
+      "locale": "de",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Rainy Campfire &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Summer Concert",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "Summer Concert"
+    },
+    {
+      "title": "Garden Concert \"quoted\"",
+      "imageCount": 4,
+      "locale": "pt",
+      "expectedTitleHtml": "Garden Concert &quot;quoted&quot;"
+    },
+    {
+      "title": "Weekend Beach Day",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Weekend Beach Day"
+    },
+    {
+      "title": "Misty Wedding Toast Café & Crème",
+      "imageCount": 12,
+      "locale": "sv",
+      "expectedTitleHtml": "Misty Wedding Toast Café &amp; Crème"
+    },
+    {
+      "title": "&amp; already Rainy Bike Ride 'single'",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "&amp;amp; already Rainy Bike Ride &#39;single&#39;"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Coastal Bike Ride it's",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Coastal Bike Ride it&#39;s"
+    },
+    {
+      "title": "Misty Concert",
+      "imageCount": 20,
+      "locale": "fi",
+      "expectedTitleHtml": "Misty Concert"
+    },
+    {
+      "title": "Quiet Bike Ride",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Quiet Bike Ride"
+    }
+  ]
+}

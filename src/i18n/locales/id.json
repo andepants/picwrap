@@ -1,0 +1,16 @@
+{
+  "name": "Bahasa Indonesia",
+  "photoCount": {
+    "other": "{count} foto"
+  },
+  "copyLink": "Salin tautan",
+  "openPhoto": "Buka foto {n} dari {total}",
+  "photoAlt": "Foto {n}",
+  "viewer": "Penampil foto",
+  "close": "Tutup",
+  "previous": "Foto sebelumnya",
+  "next": "Foto berikutnya",
+  "notFoundTitle": "Galeri tidak ditemukan",
+  "notFoundBody": "Galeri mungkin sudah kedaluwarsa. Galeri disimpan selama 30 hari.",
+  "makeNew": "Buat yang baru"
+}

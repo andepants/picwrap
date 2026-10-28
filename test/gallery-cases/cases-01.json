@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 1 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "<script>alert(1)</script> Family Graduation <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Family Graduation &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Late Reunion <b>bold</b>",
+      "imageCount": 10,
+      "locale": "pt",
+      "expectedTitleHtml": "Late Reunion &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "<script>alert(1)</script> Harbor Concert <b>bold</b>",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Harbor Concert &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Winter Concert <img src=x onerror=alert(1)>",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Winter Concert &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Rainy Hike",
+      "imageCount": 20,
+      "locale": "da",
+      "expectedTitleHtml": "Rainy Hike"
+    },
+    {
+      "title": "Backyard Hike",
+      "imageCount": 20,
+      "locale": "nb",
+      "expectedTitleHtml": "Backyard Hike"
+    },
+    {
+      "title": "Tom & Jerry Winter Festival Tom & Jerry",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Tom &amp; Jerry Winter Festival Tom &amp; Jerry"
+    },
+    {
+      "title": "Snowy Museum Visit a < b > c",
+      "imageCount": 3,
+      "locale": "pl",
+      "expectedTitleHtml": "Snowy Museum Visit a &lt; b &gt; c"
+    },
+    {
+      "title": "Mountain Bake Sale",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "Mountain Bake Sale"
+    },
+    {
+      "title": "Snowy Road Trip it's",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Snowy Road Trip it&#39;s"
+    },
+    {
+      "title": "Mountain Market \"quoted\"",
+      "imageCount": 10,
+      "locale": "ru",
+      "expectedTitleHtml": "Mountain Market &quot;quoted&quot;"
+    },
+    {
+      "title": "Tom & Jerry Weekend Bake Sale <script>alert(1)</script>",
+      "imageCount": 20,
+      "locale": "uk",
+      "expectedTitleHtml": "Tom &amp; Jerry Weekend Bake Sale &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Spring Trip \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "ja",
+      "expectedTitleHtml": "Spring Trip &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "&amp; already Sunny Market Café & Crème",
+      "imageCount": 7,
+      "locale": "ko",
+      "expectedTitleHtml": "&amp;amp; already Sunny Market Café &amp; Crème"
+    },
+    {
+      "title": "Garden Bike Ride &amp; already",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Garden Bike Ride &amp;amp; already"
+    },
+    {
+      "title": "Tom & Jerry Snowy Sunset <b>bold</b>",
+      "imageCount": 5,
+      "locale": "id",
+      "expectedTitleHtml": "Tom &amp; Jerry Snowy Sunset &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Coastal Beach Day it's",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "Coastal Beach Day it&#39;s"
+    },
+    {
+      "title": "Quiet Market \"quoted\"",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "Quiet Market &quot;quoted&quot;"
+    },
+    {
+      "title": "Coastal Concert \"><svg onload=alert(1)>",
+      "imageCount": 20,
+      "locale": "fr",
+      "expectedTitleHtml": "Coastal Concert &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "&amp; already Autumn Bike Ride Ünïcödé \"test\"",
+      "imageCount": 19,
+      "locale": "de",
+      "expectedTitleHtml": "&amp;amp; already Autumn Bike Ride Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Family Bike Ride",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "Family Bike Ride"
+    },
+    {
+      "title": "Misty Birthday",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "Misty Birthday"
+    },
+    {
+      "title": "Weekend Wedding Toast",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Weekend Wedding Toast"
+    },
+    {
+      "title": "Coastal Market 5 > 3 & 2 < 4",
+      "imageCount": 2,
+      "locale": "sv",
+      "expectedTitleHtml": "Coastal Market 5 &gt; 3 &amp; 2 &lt; 4"
+    }
+  ]
+}

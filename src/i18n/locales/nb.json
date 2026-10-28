@@ -1,0 +1,17 @@
+{
+  "name": "Norsk bokmål",
+  "photoCount": {
+    "one": "{count} bilde",
+    "other": "{count} bilder"
+  },
+  "copyLink": "Kopier lenke",
+  "openPhoto": "Åpne bilde {n} av {total}",
+  "photoAlt": "Bilde {n}",
+  "viewer": "Bildeviser",
+  "close": "Lukk",
+  "previous": "Forrige bilde",
+  "next": "Neste bilde",
+  "notFoundTitle": "Fant ikke galleriet",
+  "notFoundBody": "Det kan ha utløpt. Gallerier lagres i 30 dager.",
+  "makeNew": "Lag et nytt"
+}

@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 31 (titles with markup). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Golden Campfire",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Golden Campfire"
+    },
+    {
+      "title": "Summer Hike",
+      "imageCount": 4,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Hike"
+    },
+    {
+      "title": "Golden Reunion <b>bold</b>",
+      "imageCount": 5,
+      "locale": "nl",
+      "expectedTitleHtml": "Golden Reunion &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Quiet Picnic",
+      "imageCount": 4,
+      "locale": "sv",
+      "expectedTitleHtml": "Quiet Picnic"
+    },
+    {
+      "title": "Winter Festival &amp; already",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Winter Festival &amp;amp; already"
+    },
+    {
+      "title": "Weekend Trip",
+      "imageCount": 20,
+      "locale": "nb",
+      "expectedTitleHtml": "Weekend Trip"
+    },
+    {
+      "title": "Late Trip \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "fi",
+      "expectedTitleHtml": "Late Trip &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "東京 <夜> Family Reunion &amp; already",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Family Reunion &amp;amp; already"
+    },
+    {
+      "title": "Backyard Bike Ride",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Backyard Bike Ride"
+    },
+    {
+      "title": "Spring Bike Ride",
+      "imageCount": 3,
+      "locale": "tr",
+      "expectedTitleHtml": "Spring Bike Ride"
+    },
+    {
+      "title": "Rainy Campfire",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Rainy Campfire"
+    },
+    {
+      "title": "Late Birthday",
+      "imageCount": 10,
+      "locale": "uk",
+      "expectedTitleHtml": "Late Birthday"
+    },
+    {
+      "title": "Quiet Sunset",
+      "imageCount": 7,
+      "locale": "ja",
+      "expectedTitleHtml": "Quiet Sunset"
+    },
+    {
+      "title": "emoji 📷 & <3 Backyard Reunion <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Backyard Reunion &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Misty Game Night it's",
+      "imageCount": 20,
+      "locale": "zh",
+      "expectedTitleHtml": "Misty Game Night it&#39;s"
+    },
+    {
+      "title": "Winter Trip <b>bold</b>",
+      "imageCount": 10,
+      "locale": "id",
+      "expectedTitleHtml": "Winter Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Late Market",
+      "imageCount": 19,
+      "locale": "en",
+      "expectedTitleHtml": "Late Market"
+    },
+    {
+      "title": "City Birthday \"><svg onload=alert(1)>",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "City Birthday &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Harbor Bake Sale \"quoted\"",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Harbor Bake Sale &quot;quoted&quot;"
+    },
+    {
+      "title": "Summer Market <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Summer Market &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "東京 <夜> Early Ferry Café & Crème",
+      "imageCount": 7,
+      "locale": "it",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Early Ferry Café &amp; Crème"
+    },
+    {
+      "title": "Snowy Campfire 東京 <夜>",
+      "imageCount": 19,
+      "locale": "pt",
+      "expectedTitleHtml": "Snowy Campfire 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Mountain Beach Day",
+      "imageCount": 7,
+      "locale": "nl",
+      "expectedTitleHtml": "Mountain Beach Day"
+    },
+    {
+      "title": "東京 <夜> City Hike 東京 <夜>",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "東京 &lt;夜&gt; City Hike 東京 &lt;夜&gt;"
+    }
+  ]
+}

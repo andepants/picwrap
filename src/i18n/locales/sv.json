@@ -1,0 +1,17 @@
+{
+  "name": "Svenska",
+  "photoCount": {
+    "one": "{count} foto",
+    "other": "{count} foton"
+  },
+  "copyLink": "Kopiera länk",
+  "openPhoto": "Öppna foto {n} av {total}",
+  "photoAlt": "Foto {n}",
+  "viewer": "Fotovisare",
+  "close": "Stäng",
+  "previous": "Föregående foto",
+  "next": "Nästa foto",
+  "notFoundTitle": "Galleriet hittades inte",
+  "notFoundBody": "Det kan ha gått ut. Gallerier sparas i 30 dagar.",
+  "makeNew": "Skapa ett nytt"
+}

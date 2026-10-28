@@ -1,0 +1,17 @@
+{
+  "name": "Türkçe",
+  "photoCount": {
+    "one": "{count} fotoğraf",
+    "other": "{count} fotoğraf"
+  },
+  "copyLink": "Bağlantıyı kopyala",
+  "openPhoto": "Fotoğraf {n}/{total} aç",
+  "photoAlt": "Fotoğraf {n}",
+  "viewer": "Fotoğraf görüntüleyici",
+  "close": "Kapat",
+  "previous": "Önceki fotoğraf",
+  "next": "Sonraki fotoğraf",
+  "notFoundTitle": "Galeri bulunamadı",
+  "notFoundBody": "Süresi dolmuş olabilir. Galeriler 30 gün saklanır.",
+  "makeNew": "Yeni bir tane oluştur"
+}

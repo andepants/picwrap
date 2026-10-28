@@ -1,0 +1,17 @@
+{
+  "name": "Nederlands",
+  "photoCount": {
+    "one": "{count} foto",
+    "other": "{count} foto's"
+  },
+  "copyLink": "Link kopiëren",
+  "openPhoto": "Foto {n} van {total} openen",
+  "photoAlt": "Foto {n}",
+  "viewer": "Fotoviewer",
+  "close": "Sluiten",
+  "previous": "Vorige foto",
+  "next": "Volgende foto",
+  "notFoundTitle": "Galerij niet gevonden",
+  "notFoundBody": "Mogelijk is deze verlopen. Galerijen worden 30 dagen bewaard.",
+  "makeNew": "Maak een nieuwe"
+}

@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 3 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Snowy Festival",
+      "imageCount": 10,
+      "locale": "cs",
+      "expectedTitleHtml": "Snowy Festival"
+    },
+    {
+      "title": "Family Picnic \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "tr",
+      "expectedTitleHtml": "Family Picnic &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Garden Bike Ride 5 > 3 & 2 < 4",
+      "imageCount": 7,
+      "locale": "ru",
+      "expectedTitleHtml": "Garden Bike Ride 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Sunny Bake Sale <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Sunny Bake Sale &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Sunny Sunset it's",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Sunny Sunset it&#39;s"
+    },
+    {
+      "title": "Weekend Hike emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "Weekend Hike emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Spring Reunion",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Spring Reunion"
+    },
+    {
+      "title": "City Market Ünïcödé \"test\"",
+      "imageCount": 12,
+      "locale": "id",
+      "expectedTitleHtml": "City Market Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Winter Picnic &amp; already",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "Winter Picnic &amp;amp; already"
+    },
+    {
+      "title": "Coastal Graduation",
+      "imageCount": 4,
+      "locale": "es",
+      "expectedTitleHtml": "Coastal Graduation"
+    },
+    {
+      "title": "'single' Spring Graduation &amp; already",
+      "imageCount": 7,
+      "locale": "fr",
+      "expectedTitleHtml": "&#39;single&#39; Spring Graduation &amp;amp; already"
+    },
+    {
+      "title": "Snowy Trip",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "Snowy Trip"
+    },
+    {
+      "title": "emoji 📷 & <3 Misty Ferry a < b > c",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Misty Ferry a &lt; b &gt; c"
+    },
+    {
+      "title": "Coastal Bake Sale",
+      "imageCount": 2,
+      "locale": "pt",
+      "expectedTitleHtml": "Coastal Bake Sale"
+    },
+    {
+      "title": "Weekend Festival Tom & Jerry",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "Weekend Festival Tom &amp; Jerry"
+    },
+    {
+      "title": "Spring Birthday",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Spring Birthday"
+    },
+    {
+      "title": "Early Festival Café & Crème",
+      "imageCount": 5,
+      "locale": "da",
+      "expectedTitleHtml": "Early Festival Café &amp; Crème"
+    },
+    {
+      "title": "\"quoted\" Harbor Festival 5 > 3 & 2 < 4",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "&quot;quoted&quot; Harbor Festival 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> City Sunset 東京 <夜>",
+      "imageCount": 5,
+      "locale": "fi",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; City Sunset 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Harbor Trip it's",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Harbor Trip it&#39;s"
+    },
+    {
+      "title": "Harbor Festival",
+      "imageCount": 2,
+      "locale": "cs",
+      "expectedTitleHtml": "Harbor Festival"
+    },
+    {
+      "title": "<script>alert(1)</script> Backyard Road Trip <b>bold</b>",
+      "imageCount": 2,
+      "locale": "tr",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Backyard Road Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Early Museum Visit",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Early Museum Visit"
+    },
+    {
+      "title": "Winter Wedding Toast",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Winter Wedding Toast"
+    }
+  ]
+}

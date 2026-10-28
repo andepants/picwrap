@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 27 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Snowy Museum Visit <b>bold</b>",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Snowy Museum Visit &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Late Birthday \"quoted\"",
+      "imageCount": 19,
+      "locale": "nb",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Late Birthday &quot;quoted&quot;"
+    },
+    {
+      "title": "Late Market <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 20,
+      "locale": "fi",
+      "expectedTitleHtml": "Late Market &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Late Museum Visit it's",
+      "imageCount": 19,
+      "locale": "pl",
+      "expectedTitleHtml": "Late Museum Visit it&#39;s"
+    },
+    {
+      "title": "Snowy Road Trip",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Snowy Road Trip"
+    },
+    {
+      "title": "Rainy Trip",
+      "imageCount": 7,
+      "locale": "tr",
+      "expectedTitleHtml": "Rainy Trip"
+    },
+    {
+      "title": "Early Trip",
+      "imageCount": 19,
+      "locale": "ru",
+      "expectedTitleHtml": "Early Trip"
+    },
+    {
+      "title": "Harbor Graduation emoji 📷 & <3",
+      "imageCount": 4,
+      "locale": "uk",
+      "expectedTitleHtml": "Harbor Graduation emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Café & Crème Winter Festival <script>alert(1)</script>",
+      "imageCount": 5,
+      "locale": "ja",
+      "expectedTitleHtml": "Café &amp; Crème Winter Festival &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Early Market 5 > 3 & 2 < 4",
+      "imageCount": 20,
+      "locale": "ko",
+      "expectedTitleHtml": "Early Market 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Family Festival <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Family Festival &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Coastal Birthday 東京 <夜>",
+      "imageCount": 7,
+      "locale": "id",
+      "expectedTitleHtml": "Coastal Birthday 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Ferry 東京 <夜>",
+      "imageCount": 19,
+      "locale": "en",
+      "expectedTitleHtml": "Quiet Ferry 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Coastal Campfire",
+      "imageCount": 2,
+      "locale": "es",
+      "expectedTitleHtml": "Coastal Campfire"
+    },
+    {
+      "title": "Early Picnic",
+      "imageCount": 4,
+      "locale": "fr",
+      "expectedTitleHtml": "Early Picnic"
+    },
+    {
+      "title": "Coastal Sunset",
+      "imageCount": 20,
+      "locale": "de",
+      "expectedTitleHtml": "Coastal Sunset"
+    },
+    {
+      "title": "Golden Reunion emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "Golden Reunion emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "City Game Night",
+      "imageCount": 12,
+      "locale": "pt",
+      "expectedTitleHtml": "City Game Night"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Winter Picnic it's",
+      "imageCount": 2,
+      "locale": "nl",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Winter Picnic it&#39;s"
+    },
+    {
+      "title": "Winter Hike",
+      "imageCount": 4,
+      "locale": "sv",
+      "expectedTitleHtml": "Winter Hike"
+    },
+    {
+      "title": "City Market",
+      "imageCount": 7,
+      "locale": "da",
+      "expectedTitleHtml": "City Market"
+    },
+    {
+      "title": "Mountain Concert <img src=x onerror=alert(1)>",
+      "imageCount": 12,
+      "locale": "nb",
+      "expectedTitleHtml": "Mountain Concert &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Family Graduation",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Family Graduation"
+    },
+    {
+      "title": "Family Bike Ride 5 > 3 & 2 < 4",
+      "imageCount": 20,
+      "locale": "pl",
+      "expectedTitleHtml": "Family Bike Ride 5 &gt; 3 &amp; 2 &lt; 4"
+    }
+  ]
+}

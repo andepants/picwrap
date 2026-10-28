@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 44 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Autumn Ferry 'single'",
+      "imageCount": 3,
+      "locale": "ja",
+      "expectedTitleHtml": "Autumn Ferry &#39;single&#39;"
+    },
+    {
+      "title": "Winter Walk 東京 <夜>",
+      "imageCount": 5,
+      "locale": "ko",
+      "expectedTitleHtml": "Winter Walk 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "'single' Harbor Bake Sale &amp; already",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "&#39;single&#39; Harbor Bake Sale &amp;amp; already"
+    },
+    {
+      "title": "Rainy Picnic",
+      "imageCount": 3,
+      "locale": "id",
+      "expectedTitleHtml": "Rainy Picnic"
+    },
+    {
+      "title": "Early Picnic",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "Early Picnic"
+    },
+    {
+      "title": "Spring Festival",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "Spring Festival"
+    },
+    {
+      "title": "Summer Game Night",
+      "imageCount": 4,
+      "locale": "fr",
+      "expectedTitleHtml": "Summer Game Night"
+    },
+    {
+      "title": "'single' Weekend Wedding Toast Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "&#39;single&#39; Weekend Wedding Toast Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Golden Road Trip",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "Golden Road Trip"
+    },
+    {
+      "title": "Coastal Ferry",
+      "imageCount": 20,
+      "locale": "pt",
+      "expectedTitleHtml": "Coastal Ferry"
+    },
+    {
+      "title": "Spring Trip 東京 <夜>",
+      "imageCount": 4,
+      "locale": "nl",
+      "expectedTitleHtml": "Spring Trip 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Museum Visit Tom & Jerry",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Quiet Museum Visit Tom &amp; Jerry"
+    },
+    {
+      "title": "Weekend Sunset",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Weekend Sunset"
+    },
+    {
+      "title": "Misty Reunion",
+      "imageCount": 4,
+      "locale": "nb",
+      "expectedTitleHtml": "Misty Reunion"
+    },
+    {
+      "title": "Rainy Festival",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Rainy Festival"
+    },
+    {
+      "title": "Summer Campfire",
+      "imageCount": 5,
+      "locale": "pl",
+      "expectedTitleHtml": "Summer Campfire"
+    },
+    {
+      "title": "Late Road Trip",
+      "imageCount": 7,
+      "locale": "cs",
+      "expectedTitleHtml": "Late Road Trip"
+    },
+    {
+      "title": "Late Ferry",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Late Ferry"
+    },
+    {
+      "title": "Autumn Wedding Toast",
+      "imageCount": 20,
+      "locale": "ru",
+      "expectedTitleHtml": "Autumn Wedding Toast"
+    },
+    {
+      "title": "Golden Concert",
+      "imageCount": 10,
+      "locale": "uk",
+      "expectedTitleHtml": "Golden Concert"
+    },
+    {
+      "title": "Coastal Graduation",
+      "imageCount": 3,
+      "locale": "ja",
+      "expectedTitleHtml": "Coastal Graduation"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Rainy Walk it's",
+      "imageCount": 12,
+      "locale": "ko",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Rainy Walk it&#39;s"
+    },
+    {
+      "title": "it's Snowy Bike Ride <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "it&#39;s Snowy Bike Ride &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Rainy Campfire 'single'",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "Rainy Campfire &#39;single&#39;"
+    }
+  ]
+}

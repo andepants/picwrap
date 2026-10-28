@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 28 (mixed scripts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Harbor Birthday",
+      "imageCount": 2,
+      "locale": "cs",
+      "expectedTitleHtml": "Harbor Birthday"
+    },
+    {
+      "title": "Rainy Campfire Ünïcödé \"test\"",
+      "imageCount": 7,
+      "locale": "tr",
+      "expectedTitleHtml": "Rainy Campfire Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Golden Sunset Café & Crème",
+      "imageCount": 19,
+      "locale": "ru",
+      "expectedTitleHtml": "Golden Sunset Café &amp; Crème"
+    },
+    {
+      "title": "Family Trip 5 > 3 & 2 < 4",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Family Trip 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Summer Hike \"quoted\"",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Hike &quot;quoted&quot;"
+    },
+    {
+      "title": "Winter Road Trip",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "Winter Road Trip"
+    },
+    {
+      "title": "Misty Graduation \"><svg onload=alert(1)>",
+      "imageCount": 12,
+      "locale": "zh",
+      "expectedTitleHtml": "Misty Graduation &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "a < b > c Garden Concert Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "a &lt; b &gt; c Garden Concert Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Autumn Picnic",
+      "imageCount": 19,
+      "locale": "en",
+      "expectedTitleHtml": "Autumn Picnic"
+    },
+    {
+      "title": "Harbor Picnic",
+      "imageCount": 4,
+      "locale": "es",
+      "expectedTitleHtml": "Harbor Picnic"
+    },
+    {
+      "title": "Tom & Jerry Summer Wedding Toast <script>alert(1)</script>",
+      "imageCount": 4,
+      "locale": "fr",
+      "expectedTitleHtml": "Tom &amp; Jerry Summer Wedding Toast &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Early Beach Day &amp; already",
+      "imageCount": 2,
+      "locale": "de",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Early Beach Day &amp;amp; already"
+    },
+    {
+      "title": "Mountain Festival",
+      "imageCount": 7,
+      "locale": "it",
+      "expectedTitleHtml": "Mountain Festival"
+    },
+    {
+      "title": "a < b > c Family Campfire <script>alert(1)</script>",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "a &lt; b &gt; c Family Campfire &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Snowy Bike Ride \"><svg onload=alert(1)>",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Snowy Bike Ride &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "City Campfire a < b > c",
+      "imageCount": 7,
+      "locale": "sv",
+      "expectedTitleHtml": "City Campfire a &lt; b &gt; c"
+    },
+    {
+      "title": "Rainy Concert \"quoted\"",
+      "imageCount": 20,
+      "locale": "da",
+      "expectedTitleHtml": "Rainy Concert &quot;quoted&quot;"
+    },
+    {
+      "title": "Winter Road Trip Ünïcödé \"test\"",
+      "imageCount": 10,
+      "locale": "nb",
+      "expectedTitleHtml": "Winter Road Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Winter Campfire",
+      "imageCount": 20,
+      "locale": "fi",
+      "expectedTitleHtml": "Winter Campfire"
+    },
+    {
+      "title": "Spring Walk Tom & Jerry",
+      "imageCount": 20,
+      "locale": "pl",
+      "expectedTitleHtml": "Spring Walk Tom &amp; Jerry"
+    },
+    {
+      "title": "it's Golden Walk <b>bold</b>",
+      "imageCount": 10,
+      "locale": "cs",
+      "expectedTitleHtml": "it&#39;s Golden Walk &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "City Wedding Toast 'single'",
+      "imageCount": 20,
+      "locale": "tr",
+      "expectedTitleHtml": "City Wedding Toast &#39;single&#39;"
+    },
+    {
+      "title": "Sunny Campfire",
+      "imageCount": 4,
+      "locale": "ru",
+      "expectedTitleHtml": "Sunny Campfire"
+    },
+    {
+      "title": "Late Picnic \"><svg onload=alert(1)>",
+      "imageCount": 2,
+      "locale": "uk",
+      "expectedTitleHtml": "Late Picnic &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    }
+  ]
+}

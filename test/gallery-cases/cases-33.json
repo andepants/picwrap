@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 33 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Tom & Jerry Backyard Ferry Café & Crème",
+      "imageCount": 12,
+      "locale": "cs",
+      "expectedTitleHtml": "Tom &amp; Jerry Backyard Ferry Café &amp; Crème"
+    },
+    {
+      "title": "Sunny Wedding Toast",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "Sunny Wedding Toast"
+    },
+    {
+      "title": "Garden Museum Visit",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Garden Museum Visit"
+    },
+    {
+      "title": "Spring Festival",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "Spring Festival"
+    },
+    {
+      "title": "Sunny Bike Ride",
+      "imageCount": 12,
+      "locale": "ja",
+      "expectedTitleHtml": "Sunny Bike Ride"
+    },
+    {
+      "title": "Spring Road Trip",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Spring Road Trip"
+    },
+    {
+      "title": "Coastal Bake Sale",
+      "imageCount": 20,
+      "locale": "zh",
+      "expectedTitleHtml": "Coastal Bake Sale"
+    },
+    {
+      "title": "Golden Bake Sale",
+      "imageCount": 3,
+      "locale": "id",
+      "expectedTitleHtml": "Golden Bake Sale"
+    },
+    {
+      "title": "Summer Concert emoji 📷 & <3",
+      "imageCount": 19,
+      "locale": "en",
+      "expectedTitleHtml": "Summer Concert emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Early Wedding Toast <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "es",
+      "expectedTitleHtml": "Early Wedding Toast &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Misty Game Night <script>alert(1)</script>",
+      "imageCount": 7,
+      "locale": "fr",
+      "expectedTitleHtml": "Misty Game Night &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Coastal Road Trip a < b > c",
+      "imageCount": 5,
+      "locale": "de",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Coastal Road Trip a &lt; b &gt; c"
+    },
+    {
+      "title": "Late Concert",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "Late Concert"
+    },
+    {
+      "title": "Family Road Trip Tom & Jerry",
+      "imageCount": 3,
+      "locale": "pt",
+      "expectedTitleHtml": "Family Road Trip Tom &amp; Jerry"
+    },
+    {
+      "title": "Winter Concert emoji 📷 & <3",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Winter Concert emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Sunny Ferry 'single'",
+      "imageCount": 2,
+      "locale": "sv",
+      "expectedTitleHtml": "Sunny Ferry &#39;single&#39;"
+    },
+    {
+      "title": "emoji 📷 & <3 Backyard Bike Ride 5 > 3 & 2 < 4",
+      "imageCount": 4,
+      "locale": "da",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Backyard Bike Ride 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Coastal Birthday Café & Crème",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "Coastal Birthday Café &amp; Crème"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> Snowy Picnic <script>alert(1)</script>",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; Snowy Picnic &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Misty Birthday 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Misty Birthday 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Winter Bake Sale 東京 <夜>",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Winter Bake Sale 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Museum Visit it's",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "Quiet Museum Visit it&#39;s"
+    },
+    {
+      "title": "Harbor Festival",
+      "imageCount": 4,
+      "locale": "ru",
+      "expectedTitleHtml": "Harbor Festival"
+    },
+    {
+      "title": "Late Road Trip &amp; already",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Late Road Trip &amp;amp; already"
+    }
+  ]
+}

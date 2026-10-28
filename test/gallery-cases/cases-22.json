@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 22 (mixed scripts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Sunny Hike",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Sunny Hike"
+    },
+    {
+      "title": "Harbor Museum Visit Tom & Jerry",
+      "imageCount": 4,
+      "locale": "nb",
+      "expectedTitleHtml": "Harbor Museum Visit Tom &amp; Jerry"
+    },
+    {
+      "title": "Quiet Graduation",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Quiet Graduation"
+    },
+    {
+      "title": "Summer Museum Visit <img src=x onerror=alert(1)>",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Summer Museum Visit &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Rainy Game Night",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Rainy Game Night"
+    },
+    {
+      "title": "Sunny Hike",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "Sunny Hike"
+    },
+    {
+      "title": "Harbor Birthday a < b > c",
+      "imageCount": 7,
+      "locale": "ru",
+      "expectedTitleHtml": "Harbor Birthday a &lt; b &gt; c"
+    },
+    {
+      "title": "City Birthday it's",
+      "imageCount": 20,
+      "locale": "uk",
+      "expectedTitleHtml": "City Birthday it&#39;s"
+    },
+    {
+      "title": "Backyard Picnic <script>alert(1)</script>",
+      "imageCount": 19,
+      "locale": "ja",
+      "expectedTitleHtml": "Backyard Picnic &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Family Festival \"><svg onload=alert(1)>",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Family Festival &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Weekend Sunset Café & Crème",
+      "imageCount": 10,
+      "locale": "zh",
+      "expectedTitleHtml": "Weekend Sunset Café &amp; Crème"
+    },
+    {
+      "title": "Winter Festival <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 20,
+      "locale": "id",
+      "expectedTitleHtml": "Winter Festival &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Snowy Birthday <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Snowy Birthday &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Late Wedding Toast &amp; already",
+      "imageCount": 10,
+      "locale": "es",
+      "expectedTitleHtml": "Late Wedding Toast &amp;amp; already"
+    },
+    {
+      "title": "Late Hike 東京 <夜>",
+      "imageCount": 19,
+      "locale": "fr",
+      "expectedTitleHtml": "Late Hike 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Birthday",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "Quiet Birthday"
+    },
+    {
+      "title": "Misty Trip Ünïcödé \"test\"",
+      "imageCount": 4,
+      "locale": "it",
+      "expectedTitleHtml": "Misty Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Family Bike Ride",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "Family Bike Ride"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> City Ferry Ünïcödé \"test\"",
+      "imageCount": 20,
+      "locale": "nl",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; City Ferry Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Misty Picnic",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "Misty Picnic"
+    },
+    {
+      "title": "City Concert",
+      "imageCount": 4,
+      "locale": "da",
+      "expectedTitleHtml": "City Concert"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Quiet Wedding Toast Tom & Jerry",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Quiet Wedding Toast Tom &amp; Jerry"
+    },
+    {
+      "title": "Coastal Picnic Tom & Jerry",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "Coastal Picnic Tom &amp; Jerry"
+    },
+    {
+      "title": "Late Hike <b>bold</b>",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Late Hike &lt;b&gt;bold&lt;/b&gt;"
+    }
+  ]
+}

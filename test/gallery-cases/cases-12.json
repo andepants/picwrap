@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 12 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Snowy Campfire <b>bold</b>",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Snowy Campfire &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Backyard Graduation",
+      "imageCount": 5,
+      "locale": "nb",
+      "expectedTitleHtml": "Backyard Graduation"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> Quiet Beach Day 'single'",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; Quiet Beach Day &#39;single&#39;"
+    },
+    {
+      "title": "Harbor Museum Visit",
+      "imageCount": 3,
+      "locale": "pl",
+      "expectedTitleHtml": "Harbor Museum Visit"
+    },
+    {
+      "title": "Rainy Concert",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "Rainy Concert"
+    },
+    {
+      "title": "Late Festival",
+      "imageCount": 7,
+      "locale": "tr",
+      "expectedTitleHtml": "Late Festival"
+    },
+    {
+      "title": "Snowy Road Trip",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Snowy Road Trip"
+    },
+    {
+      "title": "Golden Picnic",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Golden Picnic"
+    },
+    {
+      "title": "Quiet Festival",
+      "imageCount": 5,
+      "locale": "ja",
+      "expectedTitleHtml": "Quiet Festival"
+    },
+    {
+      "title": "Early Concert Café & Crème",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "Early Concert Café &amp; Crème"
+    },
+    {
+      "title": "Winter Trip it's",
+      "imageCount": 2,
+      "locale": "zh",
+      "expectedTitleHtml": "Winter Trip it&#39;s"
+    },
+    {
+      "title": "Summer Ferry <b>bold</b>",
+      "imageCount": 7,
+      "locale": "id",
+      "expectedTitleHtml": "Summer Ferry &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Rainy Museum Visit",
+      "imageCount": 7,
+      "locale": "en",
+      "expectedTitleHtml": "Rainy Museum Visit"
+    },
+    {
+      "title": "Autumn Game Night",
+      "imageCount": 7,
+      "locale": "es",
+      "expectedTitleHtml": "Autumn Game Night"
+    },
+    {
+      "title": "Family Wedding Toast Café & Crème",
+      "imageCount": 5,
+      "locale": "fr",
+      "expectedTitleHtml": "Family Wedding Toast Café &amp; Crème"
+    },
+    {
+      "title": "Golden Wedding Toast 5 > 3 & 2 < 4",
+      "imageCount": 12,
+      "locale": "de",
+      "expectedTitleHtml": "Golden Wedding Toast 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Golden Graduation",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Golden Graduation"
+    },
+    {
+      "title": "\"quoted\" Late Concert emoji 📷 & <3",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "&quot;quoted&quot; Late Concert emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Golden Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Golden Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "City Bake Sale 5 > 3 & 2 < 4",
+      "imageCount": 4,
+      "locale": "sv",
+      "expectedTitleHtml": "City Bake Sale 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Summer Game Night 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Summer Game Night 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Quiet Trip Tom & Jerry",
+      "imageCount": 19,
+      "locale": "nb",
+      "expectedTitleHtml": "Quiet Trip Tom &amp; Jerry"
+    },
+    {
+      "title": "emoji 📷 & <3 Spring Bike Ride &amp; already",
+      "imageCount": 3,
+      "locale": "fi",
+      "expectedTitleHtml": "emoji 📷 &amp; &lt;3 Spring Bike Ride &amp;amp; already"
+    },
+    {
+      "title": "Summer Birthday",
+      "imageCount": 19,
+      "locale": "pl",
+      "expectedTitleHtml": "Summer Birthday"
+    }
+  ]
+}

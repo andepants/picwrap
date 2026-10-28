@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 17 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Backyard Concert <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Backyard Concert &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Rainy Graduation",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Rainy Graduation"
+    },
+    {
+      "title": "Summer Bake Sale",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Summer Bake Sale"
+    },
+    {
+      "title": "Snowy Ferry",
+      "imageCount": 20,
+      "locale": "pl",
+      "expectedTitleHtml": "Snowy Ferry"
+    },
+    {
+      "title": "Misty Festival",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "Misty Festival"
+    },
+    {
+      "title": "Autumn Graduation",
+      "imageCount": 12,
+      "locale": "tr",
+      "expectedTitleHtml": "Autumn Graduation"
+    },
+    {
+      "title": "Family Birthday it's",
+      "imageCount": 19,
+      "locale": "ru",
+      "expectedTitleHtml": "Family Birthday it&#39;s"
+    },
+    {
+      "title": "Snowy Sunset",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Snowy Sunset"
+    },
+    {
+      "title": "Weekend Reunion",
+      "imageCount": 3,
+      "locale": "ja",
+      "expectedTitleHtml": "Weekend Reunion"
+    },
+    {
+      "title": "Snowy Wedding Toast",
+      "imageCount": 12,
+      "locale": "ko",
+      "expectedTitleHtml": "Snowy Wedding Toast"
+    },
+    {
+      "title": "Golden Trip 東京 <夜>",
+      "imageCount": 7,
+      "locale": "zh",
+      "expectedTitleHtml": "Golden Trip 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "City Wedding Toast",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "City Wedding Toast"
+    },
+    {
+      "title": "Family Reunion 5 > 3 & 2 < 4",
+      "imageCount": 2,
+      "locale": "en",
+      "expectedTitleHtml": "Family Reunion 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Snowy Bike Ride",
+      "imageCount": 2,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Bike Ride"
+    },
+    {
+      "title": "City Festival \"><svg onload=alert(1)>",
+      "imageCount": 4,
+      "locale": "fr",
+      "expectedTitleHtml": "City Festival &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Late Museum Visit",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Late Museum Visit"
+    },
+    {
+      "title": "Weekend Game Night",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "Weekend Game Night"
+    },
+    {
+      "title": "Family Bake Sale &amp; already",
+      "imageCount": 3,
+      "locale": "pt",
+      "expectedTitleHtml": "Family Bake Sale &amp;amp; already"
+    },
+    {
+      "title": "Winter Reunion <img src=x onerror=alert(1)>",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Winter Reunion &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "Autumn Trip a < b > c",
+      "imageCount": 2,
+      "locale": "sv",
+      "expectedTitleHtml": "Autumn Trip a &lt; b &gt; c"
+    },
+    {
+      "title": "Autumn Market Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Autumn Market Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Family Bake Sale",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Family Bake Sale"
+    },
+    {
+      "title": "Coastal Walk",
+      "imageCount": 20,
+      "locale": "fi",
+      "expectedTitleHtml": "Coastal Walk"
+    },
+    {
+      "title": "Harbor Bake Sale",
+      "imageCount": 2,
+      "locale": "pl",
+      "expectedTitleHtml": "Harbor Bake Sale"
+    }
+  ]
+}

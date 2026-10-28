@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 18 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Backyard Beach Day <b>bold</b>",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "Backyard Beach Day &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Late Beach Day",
+      "imageCount": 20,
+      "locale": "tr",
+      "expectedTitleHtml": "Late Beach Day"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Garden Road Trip Ünïcödé \"test\"",
+      "imageCount": 2,
+      "locale": "ru",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Garden Road Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Sunny Bake Sale",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Sunny Bake Sale"
+    },
+    {
+      "title": "Snowy Ferry",
+      "imageCount": 2,
+      "locale": "ja",
+      "expectedTitleHtml": "Snowy Ferry"
+    },
+    {
+      "title": "Late Sunset",
+      "imageCount": 5,
+      "locale": "ko",
+      "expectedTitleHtml": "Late Sunset"
+    },
+    {
+      "title": "Weekend Ferry a < b > c",
+      "imageCount": 4,
+      "locale": "zh",
+      "expectedTitleHtml": "Weekend Ferry a &lt; b &gt; c"
+    },
+    {
+      "title": "City Wedding Toast 'single'",
+      "imageCount": 5,
+      "locale": "id",
+      "expectedTitleHtml": "City Wedding Toast &#39;single&#39;"
+    },
+    {
+      "title": "Quiet Campfire Café & Crème",
+      "imageCount": 12,
+      "locale": "en",
+      "expectedTitleHtml": "Quiet Campfire Café &amp; Crème"
+    },
+    {
+      "title": "Golden Birthday <script>alert(1)</script>",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Golden Birthday &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Café & Crème Harbor Picnic 東京 <夜>",
+      "imageCount": 5,
+      "locale": "fr",
+      "expectedTitleHtml": "Café &amp; Crème Harbor Picnic 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Mountain Trip &amp; already",
+      "imageCount": 5,
+      "locale": "de",
+      "expectedTitleHtml": "Mountain Trip &amp;amp; already"
+    },
+    {
+      "title": "Autumn Birthday",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Autumn Birthday"
+    },
+    {
+      "title": "\"quoted\" Late Walk \"><svg onload=alert(1)>",
+      "imageCount": 10,
+      "locale": "pt",
+      "expectedTitleHtml": "&quot;quoted&quot; Late Walk &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Family Ferry \"quoted\"",
+      "imageCount": 10,
+      "locale": "nl",
+      "expectedTitleHtml": "Family Ferry &quot;quoted&quot;"
+    },
+    {
+      "title": "Autumn Game Night 'single'",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Autumn Game Night &#39;single&#39;"
+    },
+    {
+      "title": "Golden Bake Sale",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Golden Bake Sale"
+    },
+    {
+      "title": "Early Reunion 東京 <夜>",
+      "imageCount": 19,
+      "locale": "nb",
+      "expectedTitleHtml": "Early Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Snowy Concert",
+      "imageCount": 5,
+      "locale": "fi",
+      "expectedTitleHtml": "Snowy Concert"
+    },
+    {
+      "title": "a < b > c Family Trip Café & Crème",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "a &lt; b &gt; c Family Trip Café &amp; Crème"
+    },
+    {
+      "title": "Early Reunion Tom & Jerry",
+      "imageCount": 4,
+      "locale": "cs",
+      "expectedTitleHtml": "Early Reunion Tom &amp; Jerry"
+    },
+    {
+      "title": "'single' Autumn Museum Visit \"quoted\"",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "&#39;single&#39; Autumn Museum Visit &quot;quoted&quot;"
+    },
+    {
+      "title": "Tom & Jerry Autumn Picnic <b>bold</b>",
+      "imageCount": 7,
+      "locale": "ru",
+      "expectedTitleHtml": "Tom &amp; Jerry Autumn Picnic &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Harbor Festival <script>alert(1)</script>",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Harbor Festival &lt;script&gt;alert(1)&lt;/script&gt;"
+    }
+  ]
+}

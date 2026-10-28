@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 35 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Spring Festival <b>bold</b>",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "Spring Festival &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Garden Game Night 5 > 3 & 2 < 4",
+      "imageCount": 5,
+      "locale": "es",
+      "expectedTitleHtml": "Garden Game Night 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Late Ferry 'single'",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Late Ferry &#39;single&#39;"
+    },
+    {
+      "title": "Sunny Game Night <b>bold</b>",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "Sunny Game Night &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Snowy Reunion 東京 <夜>",
+      "imageCount": 7,
+      "locale": "it",
+      "expectedTitleHtml": "Snowy Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Summer Ferry <script>alert(1)</script>",
+      "imageCount": 3,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Ferry &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "&amp; already Snowy Sunset \"quoted\"",
+      "imageCount": 20,
+      "locale": "nl",
+      "expectedTitleHtml": "&amp;amp; already Snowy Sunset &quot;quoted&quot;"
+    },
+    {
+      "title": "<b>bold</b> Early Bike Ride Café & Crème",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Early Bike Ride Café &amp; Crème"
+    },
+    {
+      "title": "Late Concert a < b > c",
+      "imageCount": 4,
+      "locale": "da",
+      "expectedTitleHtml": "Late Concert a &lt; b &gt; c"
+    },
+    {
+      "title": "Harbor Beach Day it's",
+      "imageCount": 12,
+      "locale": "nb",
+      "expectedTitleHtml": "Harbor Beach Day it&#39;s"
+    },
+    {
+      "title": "<script>alert(1)</script> Harbor Concert Café & Crème",
+      "imageCount": 19,
+      "locale": "fi",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Harbor Concert Café &amp; Crème"
+    },
+    {
+      "title": "<b>bold</b> Winter Festival 東京 <夜>",
+      "imageCount": 5,
+      "locale": "pl",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Winter Festival 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Late Beach Day <script>alert(1)</script>",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Late Beach Day &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "City Reunion",
+      "imageCount": 19,
+      "locale": "tr",
+      "expectedTitleHtml": "City Reunion"
+    },
+    {
+      "title": "Quiet Graduation it's",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Quiet Graduation it&#39;s"
+    },
+    {
+      "title": "Backyard Birthday 東京 <夜>",
+      "imageCount": 1,
+      "locale": "uk",
+      "expectedTitleHtml": "Backyard Birthday 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Mountain Beach Day it's",
+      "imageCount": 5,
+      "locale": "ja",
+      "expectedTitleHtml": "Mountain Beach Day it&#39;s"
+    },
+    {
+      "title": "Coastal Game Night",
+      "imageCount": 12,
+      "locale": "ko",
+      "expectedTitleHtml": "Coastal Game Night"
+    },
+    {
+      "title": "<script>alert(1)</script> Summer Walk Tom & Jerry",
+      "imageCount": 4,
+      "locale": "zh",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Summer Walk Tom &amp; Jerry"
+    },
+    {
+      "title": "Late Beach Day &amp; already",
+      "imageCount": 5,
+      "locale": "id",
+      "expectedTitleHtml": "Late Beach Day &amp;amp; already"
+    },
+    {
+      "title": "Garden Wedding Toast",
+      "imageCount": 2,
+      "locale": "en",
+      "expectedTitleHtml": "Garden Wedding Toast"
+    },
+    {
+      "title": "Snowy Walk",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Walk"
+    },
+    {
+      "title": "Misty Campfire <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Misty Campfire &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Early Trip",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Early Trip"
+    }
+  ]
+}

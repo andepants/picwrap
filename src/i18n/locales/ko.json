@@ -1,0 +1,16 @@
+{
+  "name": "한국어",
+  "photoCount": {
+    "other": "사진 {count}장"
+  },
+  "copyLink": "링크 복사",
+  "openPhoto": "사진 {n}/{total} 열기",
+  "photoAlt": "사진 {n}",
+  "viewer": "사진 뷰어",
+  "close": "닫기",
+  "previous": "이전 사진",
+  "next": "다음 사진",
+  "notFoundTitle": "갤러리를 찾을 수 없습니다",
+  "notFoundBody": "만료되었을 수 있습니다. 갤러리는 30일 동안 보관됩니다.",
+  "makeNew": "새로 만들기"
+}

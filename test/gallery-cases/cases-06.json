@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 6 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Late Walk 5 > 3 & 2 < 4",
+      "imageCount": 10,
+      "locale": "it",
+      "expectedTitleHtml": "Late Walk 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Autumn Festival",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Autumn Festival"
+    },
+    {
+      "title": "Harbor Game Night <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 19,
+      "locale": "nl",
+      "expectedTitleHtml": "Harbor Game Night &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "City Beach Day",
+      "imageCount": 7,
+      "locale": "sv",
+      "expectedTitleHtml": "City Beach Day"
+    },
+    {
+      "title": "Mountain Beach Day \"quoted\"",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Mountain Beach Day &quot;quoted&quot;"
+    },
+    {
+      "title": "Summer Market",
+      "imageCount": 2,
+      "locale": "nb",
+      "expectedTitleHtml": "Summer Market"
+    },
+    {
+      "title": "Mountain Ferry",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Mountain Ferry"
+    },
+    {
+      "title": "Quiet Ferry Café & Crème",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "Quiet Ferry Café &amp; Crème"
+    },
+    {
+      "title": "Sunny Wedding Toast",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Sunny Wedding Toast"
+    },
+    {
+      "title": "5 > 3 & 2 < 4 Weekend Game Night &amp; already",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "5 &gt; 3 &amp; 2 &lt; 4 Weekend Game Night &amp;amp; already"
+    },
+    {
+      "title": "Early Sunset",
+      "imageCount": 4,
+      "locale": "ru",
+      "expectedTitleHtml": "Early Sunset"
+    },
+    {
+      "title": "Garden Bike Ride emoji 📷 & <3",
+      "imageCount": 10,
+      "locale": "uk",
+      "expectedTitleHtml": "Garden Bike Ride emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Autumn Birthday",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Autumn Birthday"
+    },
+    {
+      "title": "Quiet Beach Day",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "Quiet Beach Day"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Early Picnic Tom & Jerry",
+      "imageCount": 1,
+      "locale": "zh",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Early Picnic Tom &amp; Jerry"
+    },
+    {
+      "title": "Coastal Reunion",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "Coastal Reunion"
+    },
+    {
+      "title": "Spring Bike Ride Café & Crème",
+      "imageCount": 12,
+      "locale": "en",
+      "expectedTitleHtml": "Spring Bike Ride Café &amp; Crème"
+    },
+    {
+      "title": "Rainy Graduation",
+      "imageCount": 3,
+      "locale": "es",
+      "expectedTitleHtml": "Rainy Graduation"
+    },
+    {
+      "title": "Summer Reunion 東京 <夜>",
+      "imageCount": 3,
+      "locale": "fr",
+      "expectedTitleHtml": "Summer Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Summer Game Night",
+      "imageCount": 12,
+      "locale": "de",
+      "expectedTitleHtml": "Summer Game Night"
+    },
+    {
+      "title": "a < b > c Garden Market <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "a &lt; b &gt; c Garden Market &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Mountain Concert <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Mountain Concert &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Rainy Festival <b>bold</b>",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Festival &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Family Festival &amp; already",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Family Festival &amp;amp; already"
+    }
+  ]
+}

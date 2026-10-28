@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 21 (titles with ampersands). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Rainy Road Trip",
+      "imageCount": 5,
+      "locale": "it",
+      "expectedTitleHtml": "Rainy Road Trip"
+    },
+    {
+      "title": "a < b > c Autumn Concert <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 7,
+      "locale": "pt",
+      "expectedTitleHtml": "a &lt; b &gt; c Autumn Concert &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Spring Market a < b > c",
+      "imageCount": 4,
+      "locale": "nl",
+      "expectedTitleHtml": "Spring Market a &lt; b &gt; c"
+    },
+    {
+      "title": "Backyard Beach Day emoji 📷 & <3",
+      "imageCount": 5,
+      "locale": "sv",
+      "expectedTitleHtml": "Backyard Beach Day emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Rainy Market 東京 <夜>",
+      "imageCount": 7,
+      "locale": "da",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Rainy Market 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "a < b > c City Festival \"quoted\"",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "a &lt; b &gt; c City Festival &quot;quoted&quot;"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Weekend Campfire &amp; already",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Weekend Campfire &amp;amp; already"
+    },
+    {
+      "title": "Weekend Festival it's",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Weekend Festival it&#39;s"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Winter Game Night 東京 <夜>",
+      "imageCount": 7,
+      "locale": "cs",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Winter Game Night 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Sunny Walk",
+      "imageCount": 5,
+      "locale": "tr",
+      "expectedTitleHtml": "Sunny Walk"
+    },
+    {
+      "title": "Weekend Picnic 'single'",
+      "imageCount": 3,
+      "locale": "ru",
+      "expectedTitleHtml": "Weekend Picnic &#39;single&#39;"
+    },
+    {
+      "title": "Quiet Birthday \"quoted\"",
+      "imageCount": 19,
+      "locale": "uk",
+      "expectedTitleHtml": "Quiet Birthday &quot;quoted&quot;"
+    },
+    {
+      "title": "City Reunion &amp; already",
+      "imageCount": 7,
+      "locale": "ja",
+      "expectedTitleHtml": "City Reunion &amp;amp; already"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Harbor Beach Day <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "ko",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Harbor Beach Day &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "\"quoted\" Harbor Ferry it's",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "&quot;quoted&quot; Harbor Ferry it&#39;s"
+    },
+    {
+      "title": "Snowy Hike Café & Crème",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "Snowy Hike Café &amp; Crème"
+    },
+    {
+      "title": "\"quoted\" Harbor Graduation emoji 📷 & <3",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "&quot;quoted&quot; Harbor Graduation emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Snowy Ferry emoji 📷 & <3",
+      "imageCount": 7,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Ferry emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Summer Game Night",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Summer Game Night"
+    },
+    {
+      "title": "City Festival 'single'",
+      "imageCount": 4,
+      "locale": "de",
+      "expectedTitleHtml": "City Festival &#39;single&#39;"
+    },
+    {
+      "title": "Summer Sunset \"quoted\"",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Summer Sunset &quot;quoted&quot;"
+    },
+    {
+      "title": "Mountain Concert Tom & Jerry",
+      "imageCount": 10,
+      "locale": "pt",
+      "expectedTitleHtml": "Mountain Concert Tom &amp; Jerry"
+    },
+    {
+      "title": "Mountain Walk emoji 📷 & <3",
+      "imageCount": 1,
+      "locale": "nl",
+      "expectedTitleHtml": "Mountain Walk emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Garden Market \"><svg onload=alert(1)>",
+      "imageCount": 19,
+      "locale": "sv",
+      "expectedTitleHtml": "Garden Market &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    }
+  ]
+}

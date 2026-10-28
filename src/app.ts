@@ -1,4 +1,5 @@
 import { renderGalleryPage, renderNotFound } from "./html";
+import { pickLocale, type Locale } from "./i18n";
 import { generateId, isValidId, MAX_FILES, validateUpload, type ImageMime } from "./validate";
 
 /** Galleries and their images expire after 30 days to stay inside KV free-tier storage. */
@@ -49,12 +50,16 @@ function json(body: unknown, status = 200): Response {
   });
 }
 
-function html(body: string, status = 200): Response {
+function html(body: string, status = 200, locale?: Locale): Response {
+  const langHeaders: Record<string, string> = locale
+    ? { "Content-Language": locale, Vary: "Accept-Language" }
+    : {};
   return new Response(body, {
     status,
     headers: {
       "Content-Type": "text/html; charset=utf-8",
       "Content-Security-Policy": HTML_CSP,
+      ...langHeaders,
       ...SECURITY_HEADERS,
     },
   });
@@ -140,15 +145,21 @@ export async function handle(request: Request, env: Env): Promise<Response> {
 
   m = pathname.match(/^\/g\/([^/]+)\/?$/);
   if (m && method === "GET") {
+    const locale = pickLocale(request.headers.get("Accept-Language"));
     const gallery = await getGallery(env, m[1]!);
-    if (!gallery) return html(renderNotFound(), 404);
+    if (!gallery) return html(renderNotFound(locale), 404, locale);
     return html(
-      renderGalleryPage({
-        id: gallery.id,
-        title: gallery.title,
-        createdAt: gallery.createdAt,
-        imageCount: gallery.images.length,
-      }),
+      renderGalleryPage(
+        {
+          id: gallery.id,
+          title: gallery.title,
+          createdAt: gallery.createdAt,
+          imageCount: gallery.images.length,
+        },
+        locale,
+      ),
+      200,
+      locale,
     );
   }
 

@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 11 (edge counts). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Misty Bike Ride it's",
+      "imageCount": 10,
+      "locale": "it",
+      "expectedTitleHtml": "Misty Bike Ride it&#39;s"
+    },
+    {
+      "title": "Misty Ferry \"><svg onload=alert(1)>",
+      "imageCount": 1,
+      "locale": "pt",
+      "expectedTitleHtml": "Misty Ferry &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Rainy Game Night",
+      "imageCount": 7,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Game Night"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Sunny Graduation \"><svg onload=alert(1)>",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Sunny Graduation &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Tom & Jerry Winter Walk <b>bold</b>",
+      "imageCount": 1,
+      "locale": "da",
+      "expectedTitleHtml": "Tom &amp; Jerry Winter Walk &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Harbor Ferry",
+      "imageCount": 20,
+      "locale": "nb",
+      "expectedTitleHtml": "Harbor Ferry"
+    },
+    {
+      "title": "Misty Beach Day \"quoted\"",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Misty Beach Day &quot;quoted&quot;"
+    },
+    {
+      "title": "Coastal Picnic 5 > 3 & 2 < 4",
+      "imageCount": 3,
+      "locale": "pl",
+      "expectedTitleHtml": "Coastal Picnic 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Snowy Museum Visit",
+      "imageCount": 1,
+      "locale": "cs",
+      "expectedTitleHtml": "Snowy Museum Visit"
+    },
+    {
+      "title": "Mountain Walk",
+      "imageCount": 12,
+      "locale": "tr",
+      "expectedTitleHtml": "Mountain Walk"
+    },
+    {
+      "title": "Rainy Concert 5 > 3 & 2 < 4",
+      "imageCount": 2,
+      "locale": "ru",
+      "expectedTitleHtml": "Rainy Concert 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Misty Birthday",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Misty Birthday"
+    },
+    {
+      "title": "Summer Concert",
+      "imageCount": 10,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Concert"
+    },
+    {
+      "title": "Backyard Hike",
+      "imageCount": 20,
+      "locale": "ko",
+      "expectedTitleHtml": "Backyard Hike"
+    },
+    {
+      "title": "Misty Sunset &amp; already",
+      "imageCount": 12,
+      "locale": "zh",
+      "expectedTitleHtml": "Misty Sunset &amp;amp; already"
+    },
+    {
+      "title": "Golden Graduation <img src=x onerror=alert(1)>",
+      "imageCount": 10,
+      "locale": "id",
+      "expectedTitleHtml": "Golden Graduation &lt;img src=x onerror=alert(1)&gt;"
+    },
+    {
+      "title": "東京 <夜> Quiet Game Night 5 > 3 & 2 < 4",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "東京 &lt;夜&gt; Quiet Game Night 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Mountain Bike Ride",
+      "imageCount": 20,
+      "locale": "es",
+      "expectedTitleHtml": "Mountain Bike Ride"
+    },
+    {
+      "title": "Quiet Hike",
+      "imageCount": 2,
+      "locale": "fr",
+      "expectedTitleHtml": "Quiet Hike"
+    },
+    {
+      "title": "Spring Campfire",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Spring Campfire"
+    },
+    {
+      "title": "&amp; already Golden Concert a < b > c",
+      "imageCount": 19,
+      "locale": "it",
+      "expectedTitleHtml": "&amp;amp; already Golden Concert a &lt; b &gt; c"
+    },
+    {
+      "title": "Late Market emoji 📷 & <3",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "Late Market emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Misty Museum Visit <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 5,
+      "locale": "nl",
+      "expectedTitleHtml": "Misty Museum Visit &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Mountain Trip",
+      "imageCount": 10,
+      "locale": "sv",
+      "expectedTitleHtml": "Mountain Trip"
+    }
+  ]
+}

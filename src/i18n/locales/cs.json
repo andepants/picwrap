@@ -1,0 +1,19 @@
+{
+  "name": "Čeština",
+  "photoCount": {
+    "one": "{count} fotka",
+    "few": "{count} fotky",
+    "many": "{count} fotky",
+    "other": "{count} fotek"
+  },
+  "copyLink": "Kopírovat odkaz",
+  "openPhoto": "Otevřít fotku {n} z {total}",
+  "photoAlt": "Fotka {n}",
+  "viewer": "Prohlížeč fotek",
+  "close": "Zavřít",
+  "previous": "Předchozí fotka",
+  "next": "Další fotka",
+  "notFoundTitle": "Galerie nenalezena",
+  "notFoundBody": "Možná vypršela. Galerie se uchovávají 30 dní.",
+  "makeNew": "Vytvořit novou"
+}

@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 30 (plain titles). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Late Trip",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Late Trip"
+    },
+    {
+      "title": "City Bike Ride",
+      "imageCount": 5,
+      "locale": "es",
+      "expectedTitleHtml": "City Bike Ride"
+    },
+    {
+      "title": "Late Bike Ride &amp; already",
+      "imageCount": 20,
+      "locale": "fr",
+      "expectedTitleHtml": "Late Bike Ride &amp;amp; already"
+    },
+    {
+      "title": "Garden Trip",
+      "imageCount": 7,
+      "locale": "de",
+      "expectedTitleHtml": "Garden Trip"
+    },
+    {
+      "title": "Autumn Trip 'single'",
+      "imageCount": 12,
+      "locale": "it",
+      "expectedTitleHtml": "Autumn Trip &#39;single&#39;"
+    },
+    {
+      "title": "Late Graduation",
+      "imageCount": 4,
+      "locale": "pt",
+      "expectedTitleHtml": "Late Graduation"
+    },
+    {
+      "title": "<a href=\"javascript:alert(1)\">x</a> Backyard Trip 'single'",
+      "imageCount": 20,
+      "locale": "nl",
+      "expectedTitleHtml": "&lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt; Backyard Trip &#39;single&#39;"
+    },
+    {
+      "title": "Early Ferry",
+      "imageCount": 1,
+      "locale": "sv",
+      "expectedTitleHtml": "Early Ferry"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Rainy Concert \"><svg onload=alert(1)>",
+      "imageCount": 3,
+      "locale": "da",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Rainy Concert &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Family Concert Café & Crème",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Family Concert Café &amp; Crème"
+    },
+    {
+      "title": "Coastal Museum Visit",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Coastal Museum Visit"
+    },
+    {
+      "title": "Quiet Sunset",
+      "imageCount": 2,
+      "locale": "pl",
+      "expectedTitleHtml": "Quiet Sunset"
+    },
+    {
+      "title": "Harbor Hike <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 2,
+      "locale": "cs",
+      "expectedTitleHtml": "Harbor Hike &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Coastal Campfire",
+      "imageCount": 3,
+      "locale": "tr",
+      "expectedTitleHtml": "Coastal Campfire"
+    },
+    {
+      "title": "Ünïcödé \"test\" Misty Walk \"><svg onload=alert(1)>",
+      "imageCount": 5,
+      "locale": "ru",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Misty Walk &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Rainy Ferry",
+      "imageCount": 3,
+      "locale": "uk",
+      "expectedTitleHtml": "Rainy Ferry"
+    },
+    {
+      "title": "Weekend Picnic",
+      "imageCount": 5,
+      "locale": "ja",
+      "expectedTitleHtml": "Weekend Picnic"
+    },
+    {
+      "title": "Summer Ferry <b>bold</b>",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Summer Ferry &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "'single' Early Trip <b>bold</b>",
+      "imageCount": 7,
+      "locale": "zh",
+      "expectedTitleHtml": "&#39;single&#39; Early Trip &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Ünïcödé \"test\" Garden Graduation \"quoted\"",
+      "imageCount": 4,
+      "locale": "id",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Garden Graduation &quot;quoted&quot;"
+    },
+    {
+      "title": "Misty Sunset a < b > c",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "Misty Sunset a &lt; b &gt; c"
+    },
+    {
+      "title": "Late Hike Tom & Jerry",
+      "imageCount": 12,
+      "locale": "es",
+      "expectedTitleHtml": "Late Hike Tom &amp; Jerry"
+    },
+    {
+      "title": "Golden Walk 東京 <夜>",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "Golden Walk 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Quiet Market",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "Quiet Market"
+    }
+  ]
+}

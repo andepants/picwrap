@@ -1,0 +1,19 @@
+{
+  "name": "Polski",
+  "photoCount": {
+    "one": "{count} zdjęcie",
+    "few": "{count} zdjęcia",
+    "many": "{count} zdjęć",
+    "other": "{count} zdjęcia"
+  },
+  "copyLink": "Kopiuj link",
+  "openPhoto": "Otwórz zdjęcie {n} z {total}",
+  "photoAlt": "Zdjęcie {n}",
+  "viewer": "Przeglądarka zdjęć",
+  "close": "Zamknij",
+  "previous": "Poprzednie zdjęcie",
+  "next": "Następne zdjęcie",
+  "notFoundTitle": "Nie znaleziono galerii",
+  "notFoundBody": "Mogła wygasnąć. Galerie są przechowywane przez 30 dni.",
+  "makeNew": "Utwórz nową"
+}

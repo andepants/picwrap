@@ -1,0 +1,17 @@
+{
+  "name": "Español",
+  "photoCount": {
+    "one": "{count} foto",
+    "other": "{count} fotos"
+  },
+  "copyLink": "Copiar enlace",
+  "openPhoto": "Abrir foto {n} de {total}",
+  "photoAlt": "Foto {n}",
+  "viewer": "Visor de fotos",
+  "close": "Cerrar",
+  "previous": "Foto anterior",
+  "next": "Foto siguiente",
+  "notFoundTitle": "Galería no encontrada",
+  "notFoundBody": "Puede que haya caducado. Las galerías se conservan durante 30 días.",
+  "makeNew": "Crear una nueva"
+}

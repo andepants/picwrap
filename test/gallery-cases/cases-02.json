@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 2 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Autumn Beach Day",
+      "imageCount": 3,
+      "locale": "da",
+      "expectedTitleHtml": "Autumn Beach Day"
+    },
+    {
+      "title": "<b>bold</b> Weekend Wedding Toast it's",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "&lt;b&gt;bold&lt;/b&gt; Weekend Wedding Toast it&#39;s"
+    },
+    {
+      "title": "Late Graduation",
+      "imageCount": 10,
+      "locale": "fi",
+      "expectedTitleHtml": "Late Graduation"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Garden Bake Sale 'single'",
+      "imageCount": 1,
+      "locale": "pl",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Garden Bake Sale &#39;single&#39;"
+    },
+    {
+      "title": "Summer Graduation",
+      "imageCount": 20,
+      "locale": "cs",
+      "expectedTitleHtml": "Summer Graduation"
+    },
+    {
+      "title": "City Concert <b>bold</b>",
+      "imageCount": 20,
+      "locale": "tr",
+      "expectedTitleHtml": "City Concert &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Winter Museum Visit",
+      "imageCount": 10,
+      "locale": "ru",
+      "expectedTitleHtml": "Winter Museum Visit"
+    },
+    {
+      "title": "City Trip",
+      "imageCount": 10,
+      "locale": "uk",
+      "expectedTitleHtml": "City Trip"
+    },
+    {
+      "title": "Summer Hike emoji 📷 & <3",
+      "imageCount": 12,
+      "locale": "ja",
+      "expectedTitleHtml": "Summer Hike emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Late Campfire",
+      "imageCount": 1,
+      "locale": "ko",
+      "expectedTitleHtml": "Late Campfire"
+    },
+    {
+      "title": "Coastal Sunset",
+      "imageCount": 10,
+      "locale": "zh",
+      "expectedTitleHtml": "Coastal Sunset"
+    },
+    {
+      "title": "City Campfire",
+      "imageCount": 5,
+      "locale": "id",
+      "expectedTitleHtml": "City Campfire"
+    },
+    {
+      "title": "Golden Museum Visit",
+      "imageCount": 1,
+      "locale": "en",
+      "expectedTitleHtml": "Golden Museum Visit"
+    },
+    {
+      "title": "Golden Concert",
+      "imageCount": 1,
+      "locale": "es",
+      "expectedTitleHtml": "Golden Concert"
+    },
+    {
+      "title": "Coastal Bike Ride",
+      "imageCount": 7,
+      "locale": "fr",
+      "expectedTitleHtml": "Coastal Bike Ride"
+    },
+    {
+      "title": "Garden Walk",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "Garden Walk"
+    },
+    {
+      "title": "Weekend Festival",
+      "imageCount": 3,
+      "locale": "it",
+      "expectedTitleHtml": "Weekend Festival"
+    },
+    {
+      "title": "Summer Road Trip Ünïcödé \"test\"",
+      "imageCount": 19,
+      "locale": "pt",
+      "expectedTitleHtml": "Summer Road Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "City Ferry",
+      "imageCount": 12,
+      "locale": "nl",
+      "expectedTitleHtml": "City Ferry"
+    },
+    {
+      "title": "Family Game Night <script>alert(1)</script>",
+      "imageCount": 12,
+      "locale": "sv",
+      "expectedTitleHtml": "Family Game Night &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Winter Road Trip Ünïcödé \"test\"",
+      "imageCount": 19,
+      "locale": "da",
+      "expectedTitleHtml": "Winter Road Trip Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Summer Concert Café & Crème",
+      "imageCount": 4,
+      "locale": "nb",
+      "expectedTitleHtml": "Summer Concert Café &amp; Crème"
+    },
+    {
+      "title": "Family Trip",
+      "imageCount": 12,
+      "locale": "fi",
+      "expectedTitleHtml": "Family Trip"
+    },
+    {
+      "title": "Mountain Bake Sale",
+      "imageCount": 4,
+      "locale": "pl",
+      "expectedTitleHtml": "Mountain Bake Sale"
+    }
+  ]
+}

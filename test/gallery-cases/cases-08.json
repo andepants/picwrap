@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 8 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "'single' Mountain Bake Sale <script>alert(1)</script>",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "&#39;single&#39; Mountain Bake Sale &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Coastal Sunset",
+      "imageCount": 4,
+      "locale": "tr",
+      "expectedTitleHtml": "Coastal Sunset"
+    },
+    {
+      "title": "Quiet Concert 5 > 3 & 2 < 4",
+      "imageCount": 12,
+      "locale": "ru",
+      "expectedTitleHtml": "Quiet Concert 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Golden Beach Day <script>alert(1)</script>",
+      "imageCount": 20,
+      "locale": "uk",
+      "expectedTitleHtml": "Golden Beach Day &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Coastal Hike <script>alert(1)</script>",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Coastal Hike &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Spring Picnic <b>bold</b>",
+      "imageCount": 3,
+      "locale": "ko",
+      "expectedTitleHtml": "Spring Picnic &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Sunny Festival 5 > 3 & 2 < 4",
+      "imageCount": 19,
+      "locale": "zh",
+      "expectedTitleHtml": "Sunny Festival 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Backyard Museum Visit Tom & Jerry",
+      "imageCount": 2,
+      "locale": "id",
+      "expectedTitleHtml": "Backyard Museum Visit Tom &amp; Jerry"
+    },
+    {
+      "title": "it's Winter Birthday 5 > 3 & 2 < 4",
+      "imageCount": 10,
+      "locale": "en",
+      "expectedTitleHtml": "it&#39;s Winter Birthday 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "Coastal Ferry <b>bold</b>",
+      "imageCount": 7,
+      "locale": "es",
+      "expectedTitleHtml": "Coastal Ferry &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "<script>alert(1)</script> Autumn Reunion Ünïcödé \"test\"",
+      "imageCount": 1,
+      "locale": "fr",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Autumn Reunion Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Spring Walk",
+      "imageCount": 10,
+      "locale": "de",
+      "expectedTitleHtml": "Spring Walk"
+    },
+    {
+      "title": "Spring Birthday Tom & Jerry",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "Spring Birthday Tom &amp; Jerry"
+    },
+    {
+      "title": "Backyard Picnic <script>alert(1)</script>",
+      "imageCount": 19,
+      "locale": "pt",
+      "expectedTitleHtml": "Backyard Picnic &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Mountain Museum Visit <b>bold</b>",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "Mountain Museum Visit &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Garden Reunion",
+      "imageCount": 7,
+      "locale": "sv",
+      "expectedTitleHtml": "Garden Reunion"
+    },
+    {
+      "title": "Family Bike Ride",
+      "imageCount": 19,
+      "locale": "da",
+      "expectedTitleHtml": "Family Bike Ride"
+    },
+    {
+      "title": "Quiet Beach Day <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "nb",
+      "expectedTitleHtml": "Quiet Beach Day &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Spring Picnic",
+      "imageCount": 1,
+      "locale": "fi",
+      "expectedTitleHtml": "Spring Picnic"
+    },
+    {
+      "title": "\"quoted\" Weekend Campfire <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 7,
+      "locale": "pl",
+      "expectedTitleHtml": "&quot;quoted&quot; Weekend Campfire &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Family Campfire 5 > 3 & 2 < 4",
+      "imageCount": 5,
+      "locale": "cs",
+      "expectedTitleHtml": "Family Campfire 5 &gt; 3 &amp; 2 &lt; 4"
+    },
+    {
+      "title": "<img src=x onerror=alert(1)> Family Concert 'single'",
+      "imageCount": 1,
+      "locale": "tr",
+      "expectedTitleHtml": "&lt;img src=x onerror=alert(1)&gt; Family Concert &#39;single&#39;"
+    },
+    {
+      "title": "Misty Hike Tom & Jerry",
+      "imageCount": 1,
+      "locale": "ru",
+      "expectedTitleHtml": "Misty Hike Tom &amp; Jerry"
+    },
+    {
+      "title": "Snowy Hike",
+      "imageCount": 7,
+      "locale": "uk",
+      "expectedTitleHtml": "Snowy Hike"
+    }
+  ]
+}

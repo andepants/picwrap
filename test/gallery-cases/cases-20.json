@@ -1,0 +1,149 @@
+{
+  "description": "Synthetic gallery render cases, batch 20 (titles with quotes). Generated; no real data.",
+  "cases": [
+    {
+      "title": "Winter Reunion 東京 <夜>",
+      "imageCount": 5,
+      "locale": "en",
+      "expectedTitleHtml": "Winter Reunion 東京 &lt;夜&gt;"
+    },
+    {
+      "title": "Snowy Sunset \"quoted\"",
+      "imageCount": 5,
+      "locale": "es",
+      "expectedTitleHtml": "Snowy Sunset &quot;quoted&quot;"
+    },
+    {
+      "title": "Garden Reunion",
+      "imageCount": 10,
+      "locale": "fr",
+      "expectedTitleHtml": "Garden Reunion"
+    },
+    {
+      "title": "<script>alert(1)</script> Early Graduation <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "de",
+      "expectedTitleHtml": "&lt;script&gt;alert(1)&lt;/script&gt; Early Graduation &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "\"><svg onload=alert(1)> Golden Campfire <a href=\"javascript:alert(1)\">x</a>",
+      "imageCount": 1,
+      "locale": "it",
+      "expectedTitleHtml": "&quot;&gt;&lt;svg onload=alert(1)&gt; Golden Campfire &lt;a href=&quot;javascript:alert(1)&quot;&gt;x&lt;/a&gt;"
+    },
+    {
+      "title": "Early Reunion Tom & Jerry",
+      "imageCount": 5,
+      "locale": "pt",
+      "expectedTitleHtml": "Early Reunion Tom &amp; Jerry"
+    },
+    {
+      "title": "Rainy Reunion emoji 📷 & <3",
+      "imageCount": 3,
+      "locale": "nl",
+      "expectedTitleHtml": "Rainy Reunion emoji 📷 &amp; &lt;3"
+    },
+    {
+      "title": "Sunny Campfire",
+      "imageCount": 12,
+      "locale": "sv",
+      "expectedTitleHtml": "Sunny Campfire"
+    },
+    {
+      "title": "Backyard Bake Sale",
+      "imageCount": 12,
+      "locale": "da",
+      "expectedTitleHtml": "Backyard Bake Sale"
+    },
+    {
+      "title": "Golden Campfire",
+      "imageCount": 3,
+      "locale": "nb",
+      "expectedTitleHtml": "Golden Campfire"
+    },
+    {
+      "title": "Family Picnic",
+      "imageCount": 7,
+      "locale": "fi",
+      "expectedTitleHtml": "Family Picnic"
+    },
+    {
+      "title": "Weekend Ferry",
+      "imageCount": 2,
+      "locale": "pl",
+      "expectedTitleHtml": "Weekend Ferry"
+    },
+    {
+      "title": "Weekend Sunset \"><svg onload=alert(1)>",
+      "imageCount": 19,
+      "locale": "cs",
+      "expectedTitleHtml": "Weekend Sunset &quot;&gt;&lt;svg onload=alert(1)&gt;"
+    },
+    {
+      "title": "Misty Reunion",
+      "imageCount": 10,
+      "locale": "tr",
+      "expectedTitleHtml": "Misty Reunion"
+    },
+    {
+      "title": "Autumn Game Night <script>alert(1)</script>",
+      "imageCount": 10,
+      "locale": "ru",
+      "expectedTitleHtml": "Autumn Game Night &lt;script&gt;alert(1)&lt;/script&gt;"
+    },
+    {
+      "title": "Mountain Market &amp; already",
+      "imageCount": 20,
+      "locale": "uk",
+      "expectedTitleHtml": "Mountain Market &amp;amp; already"
+    },
+    {
+      "title": "Misty Sunset",
+      "imageCount": 1,
+      "locale": "ja",
+      "expectedTitleHtml": "Misty Sunset"
+    },
+    {
+      "title": "Ünïcödé \"test\" Garden Picnic Ünïcödé \"test\"",
+      "imageCount": 19,
+      "locale": "ko",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Garden Picnic Ünïcödé &quot;test&quot;"
+    },
+    {
+      "title": "Golden Festival",
+      "imageCount": 3,
+      "locale": "zh",
+      "expectedTitleHtml": "Golden Festival"
+    },
+    {
+      "title": "&amp; already Golden Market <b>bold</b>",
+      "imageCount": 1,
+      "locale": "id",
+      "expectedTitleHtml": "&amp;amp; already Golden Market &lt;b&gt;bold&lt;/b&gt;"
+    },
+    {
+      "title": "Garden Graduation Tom & Jerry",
+      "imageCount": 4,
+      "locale": "en",
+      "expectedTitleHtml": "Garden Graduation Tom &amp; Jerry"
+    },
+    {
+      "title": "&amp; already Backyard Graduation &amp; already",
+      "imageCount": 4,
+      "locale": "es",
+      "expectedTitleHtml": "&amp;amp; already Backyard Graduation &amp;amp; already"
+    },
+    {
+      "title": "Early Walk",
+      "imageCount": 7,
+      "locale": "fr",
+      "expectedTitleHtml": "Early Walk"
+    },
+    {
+      "title": "Ünïcödé \"test\" Summer Beach Day 5 > 3 & 2 < 4",
+      "imageCount": 20,
+      "locale": "de",
+      "expectedTitleHtml": "Ünïcödé &quot;test&quot; Summer Beach Day 5 &gt; 3 &amp; 2 &lt; 4"
+    }
+  ]
+}

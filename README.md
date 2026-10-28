@@ -30,6 +30,14 @@ Server-side validation (`src/validate.ts`):
   `X-Content-Type-Options: nosniff`.
 - Every KV entry has a **30-day TTL**, so storage stays inside free-tier limits.
 
+## Languages
+
+The gallery and "not found" pages are rendered in the visitor's language, picked from the
+`Accept-Language` header (primary subtag match, q-values honoured, English fallback). Strings live in
+`src/i18n/locales/<code>.json` (20 locales); `src/i18n/index.ts` handles lookup and plural forms via
+`Intl.PluralRules`. Translated strings are HTML-escaped like any other text. Responses carry
+`Content-Language` and `Vary: Accept-Language`.
+
 ## Run locally
 
 Requires Node.js 20+. No secrets or Cloudflare login are needed. `wrangler dev` uses a local,
