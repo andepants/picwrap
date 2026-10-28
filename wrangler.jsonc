@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "picwrap",
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-05-01",
+  "workers_dev": true,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "GALLERIES",
+      "id": "bf0854ccbc294fac901dfc1dc3b798e6"
+    }
+  ],
+  "observability": { "enabled": true }
+}
